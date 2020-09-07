@@ -1,4 +1,4 @@
-Recursion 9 : Conversion of Base 10 Number to any base
+ 1) Conversion of Base 10 Number to any base
 
 Write a program to convert a Base 10 number to any base less than 30 using recursion.
 
