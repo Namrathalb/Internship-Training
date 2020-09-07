@@ -1,3 +1,3 @@
 **MINESWEEPER**
 
-![Image](image.jpeg)
+![Image](image.jpg)
