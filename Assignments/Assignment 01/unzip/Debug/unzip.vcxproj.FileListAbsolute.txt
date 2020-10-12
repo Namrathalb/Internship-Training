@@ -1,0 +1,2 @@
+C:\Users\questuser\source\repos\unzip\Debug\unzip.exe
+C:\Users\questuser\source\repos\unzip\Debug\unzip.pdb
