@@ -1,0 +1,54 @@
+Wed 10/21/2020, 19:43:20.03, mainMENU Function 
+Wed 10/21/2020, 19:43:21.45, user entered the choice 1 
+Wed 10/21/2020, 19:43:21.45, Checking for version 3.6.0 in system 
+Wed 10/21/2020, 19:43:22.65, 3.6.0 version is present(Recommended) in system 
+Wed 10/21/2020, 19:43:22.65, Recommended version installed in system.
+Wed 10/21/2020, 19:43:23.37, mainMENU Function 
+Wed 10/21/2020, 19:43:25.73, user entered the choice 0 
+Wed 10/21/2020, 19:43:25.74, Are you sure you want to exit? 
+
+Wed 10/21/2020, 19:46:43.77, mainMENU Function 
+Wed 10/21/2020, 19:46:44.61, user entered the choice 1 
+Wed 10/21/2020, 19:46:44.63, Checking for version 3.6.0 in system 
+Wed 10/21/2020, 19:46:46.60, 3.9.0 version is present and it is Greater than Recommended version 
+Wed 10/21/2020, 19:46:46.60, it is greater want to downgrade? 
+Wed 10/21/2020, 19:46:49.08, user selected y option 
+Wed 10/21/2020, 19:46:49.09, Now downgrading 3.9.0 to 3.6.0 
+Wed 10/21/2020, 19:46:49.09, Installing 3.6.0... 
+Wed 10/21/2020, 19:46:49.09, waiting for few moments to finish installing 3.6.0... 
+Wed 10/21/2020, 19:46:49.11, 3.6.0 Recommended version Installation is Completed... 
+Wed 10/21/2020, 19:46:54.22, mainMENU Function 
+Wed 10/21/2020, 19:46:56.19, user entered the choice 0 
+Wed 10/21/2020, 19:46:56.21, Are you sure you want to exit? 
+Wed 10/21/2020, 19:49:10.93, user selected y option 
+Wed 10/21/2020, 19:49:10.93, User exited the program 
+
+Wed 10/21/2020, 19:51:52.49, mainMENU Function 
+Wed 10/21/2020, 19:51:53.15, user entered the choice 1 
+Wed 10/21/2020, 19:51:53.16, Checking for version 3.6.0 in system 
+Wed 10/21/2020, 19:51:56.07, 3.5.0 version is present and it is Lesser than Recommended version 
+Wed 10/21/2020, 19:51:56.09, it is greater want to Upgrade? 
+Wed 10/21/2020, 19:51:59.02, user selected y option 
+Wed 10/21/2020, 19:51:59.02, Now Upgrading 3.5.0 to 3.6.0 
+Wed 10/21/2020, 19:51:59.03, Installing 3.6.0... 
+Wed 10/21/2020, 19:51:59.03, waiting for few moments to finish installing 3.6.0... 
+Wed 10/21/2020, 19:51:59.04, 3.6.0 Recommended version Installation is Completed... 
+Wed 10/21/2020, 19:52:01.39, mainMENU Function 
+Wed 10/21/2020, 19:52:03.37, user entered the choice 0 
+Wed 10/21/2020, 19:52:03.38, Are you sure you want to exit? 
+Wed 10/21/2020, 19:49:10.93, user selected y option 
+Wed 10/21/2020, 19:49:10.93, User exited the program 
+
+Wed 10/21/2020, 20:08:21.76, mainMENU Function 
+Wed 10/21/2020, 20:08:22.85, user entered the choice 1 
+Wed 10/21/2020, 20:08:22.87, Checking for version 3.6.0 in system 
+Wed 10/21/2020, 20:08:24.43, No Python is present in the system 
+Wed 10/21/2020, 20:08:24.43, Installing Python 3.6.0 version... 
+Wed 10/21/2020, 20:08:24.43, waiting for few moments to finish installing 3.6.0... 
+Wed 10/21/2020, 20:08:24.45, 3.6.0 Recommended version Installation is Completed 
+Wed 10/21/2020, 20:08:25.82, mainMENU Function 
+Wed 10/21/2020, 20:08:27.35, user entered the choice 0 
+Wed 10/21/2020, 20:08:27.37, Are you sure you want to exit? 
+Wed 10/21/2020, 20:08:28.92, user selected  option 
+Wed 10/21/2020, 20:08:28.92, User exited the program 
+
