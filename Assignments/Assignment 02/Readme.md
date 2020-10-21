@@ -1,5 +1,8 @@
 The check.bat is a batch file used to check the version of python in the system presnt and perform operation based on it.
 
+**NOTE :** 
+**python-3.6.0-amd64.exe is more than 25 MB, Hence not inculded in this repo please download the file and keep it in same directory as Batch file.**
+
 
 Option 1): if a version of PYTHON is already installed check its version. If the VERSION is less than 3.6 or NO VERSION is installed then install PYTHON 3.6.0 version. 
 Note: BATCH file should check the installed software version anywhere in the system.
