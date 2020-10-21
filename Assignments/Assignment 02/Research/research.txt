@@ -1,0 +1,34 @@
+So, what is a batch file exactly?
+You might be aware of the Windows command line interpreter known as CMD or Command Prompt. It takes various commands as input through the keyboard and processes them. Being a Windows user, most of us aren’t much comfortable with anything that doesn’t look good, and CMD is one of them.
+
+A batch file does the work of a mediator between you and the command prompt. It is a file – with .bat, .cmd, .btm file extensions – containing the CMD commands. When you run a batch file, the commands written in it are executed in the Command Prompt following a serial fashion. Otherwise, these would have to be entered manually, line by line. The set of commands is also known as a batch script.
+
+What’s the use of a batch file?
+Now, why should you keep the commands in a batch file? A batch file saves your time, otherwise, would be invested in typing the same commands again and again. For instance, you can schedule your Windows OS to shut down after a specific amount of time using the command prompt.
+
+If you have created a batch file for the shutdown operation, you’ll only have to double-click to run it, like you usually open applications, and your Windows will shut down after the time you have already set.
+
+If a developer wants to use the command prompt on your machine while installing software, he can do so by including a batch file in the setup files. Otherwise, you would have to run the commands which I guess won’t make you happy. In a nutshell, it is a script file used to automate tasks in DOS, Windows, and OS/2 operating systems.
+
+While creating a batch file, you can also enable loops (for), conditional statements (if), control statements (goto), etc. You can run a batch file directly from the command prompt by typing its name. Also, you can run one batch file from another batch file using the CALL command.
+
+What are batch file modes?
+You might have done it many times, there are batch files in which you need to make a selection to continue execution.  For example, it may ask you Yes or No in order to proceed further.
+
+This is called interactive mode where input from the user is required. The other mode is called batch mode where a bat file keeps doing its work without disturbing the user.
+
+Things to know: batch file commands
+Before you learn how to make a batch file in Windows, you should be aware of a few things. Creating a batch file is all about commands and crafting them appropriately for best use. You need to know some batch file commands which will help you create basic batch files.
+
+
+title: It’s used to change the title text displayed on top of CMD window.
+
+echo – Displays the input string as the output. Use ON or OFF option for ECHO to turn the echoing feature on or off. If you turn on the ECHO, the CMD will display the command it is executing.
+
+pause – Used to stop the execution of a Windows batch file.
+
+EXIT – To exit the Command Prompt.
+
+cls – Used to clear the command prompt screen.
+
+:: – Add a comment in the batch file. The Command Prompt ignores any text written as a batch file comment.
