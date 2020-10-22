@@ -1,5 +1,4 @@
 @echo off
-color 0E
 title Python 3.6.0 Extensions Installer
 echo.
 GOTO greetings
