@@ -1,0 +1,12 @@
+Thu 10/22/2020 20:09:34.51 mainMenu 
+Thu 10/22/2020 20:09:36.03 User entered the choice 1 
+Thu 10/22/2020 20:09:36.05 Checking version 3.6.0 in system 
+Thu 10/22/2020 20:09:36.58 Python 3.6.0 version found. 
+Thu 10/22/2020 20:09:37.19 Recommended Version 3.6.0 present. 
+Thu 10/22/2020 20:09:37.20 calling: Existing Function. 
+Thu 10/22/2020 20:09:37.21 3.6.0 version is present(Recommended) in system. 
+Thu 10/22/2020 20:09:37.96 mainMenu 
+Thu 10/22/2020 20:09:39.46 User entered the choice 0 
+Thu 10/22/2020 20:09:39.47 Exit Program? 
+Thu 10/22/2020 20:09:40.55 user selected  option. 
+Thu 10/22/2020 20:09:40.57 User exited the program. 
