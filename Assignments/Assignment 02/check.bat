@@ -141,5 +141,5 @@ call:log "mainMenu"
 GOTO mainMenu 
 
 :log
-  echo %date% %time% %~1 >> %filename%.txt
+  echo %date% %time% %~1 >> %filename%
 exit /B 0
