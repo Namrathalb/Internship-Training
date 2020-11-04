@@ -1,0 +1,1817 @@
+Index			TIMESTAMP				Linenumber			Function Name				User value
+1			Wed Nov 04 20:21:43 2020		82				constr()				Calling: intial()
+2			Wed Nov 04 20:21:43 2020		93				intial()				Opening: Results.html.
+3			Wed Nov 04 20:21:43 2020		99				intial()				Parsing: Started
+4			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td>Date</td>
+5			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: Date
+6			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td>Status</td>
+7			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: Status
+8			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td>Test name</td>
+9			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: Test name
+10			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td>Parameters</td>
+11			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: Parameters
+12			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td>Log</td>
+13			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: Log
+14			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td>Error description</td>
+15			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: Error description
+16			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td>2020 09 14 14:17:56</td>
+17			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: 2020 09 14 14:17:56
+18			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td>PASSED</td>
+19			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: PASSED
+20			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td>AS_AS_0002</td>
+21			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: AS_AS_0002
+22			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td></td>
+23			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: 
+24			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td><a href="file:///AS_AS_0002_Tfe_2020-09-14_14-13-51.log"><code>AS_AS_0002_Tfe_2020-09-14_14-13-51.log</code></a></td>
+25			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: AS_AS_0002_Tfe_2020-09-14_14-13-51.log
+26			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td></td>
+27			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: 
+28			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td>2020 09 14 14:24:25</td>
+29			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: 2020 09 14 14:24:25
+30			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td>PASSED</td>
+31			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: PASSED
+32			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td>AS_AS_0075</td>
+33			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: AS_AS_0075
+34			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td></td>
+35			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: 
+36			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td><a href="file:///AS_AS_0075_Tfe_2020-09-14_14-18-58.log"><code>AS_AS_0075_Tfe_2020-09-14_14-18-58.log</code></a></td>
+37			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: AS_AS_0075_Tfe_2020-09-14_14-18-58.log
+38			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td></td>
+39			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: 
+40			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td>2020 09 14 14:30:20</td>
+41			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: 2020 09 14 14:30:20
+42			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td>PASSED</td>
+43			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: PASSED
+44			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td>AS_AS_0087</td>
+45			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: AS_AS_0087
+46			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td></td>
+47			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: 
+48			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td><a href="file:///AS_AS_0087_Tfe_2020-09-14_14-24-27.log"><code>AS_AS_0087_Tfe_2020-09-14_14-24-27.log</code></a></td>
+49			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: AS_AS_0087_Tfe_2020-09-14_14-24-27.log
+50			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td></td>
+51			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: 
+52			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td>2020 09 14 14:33:51</td>
+53			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: 2020 09 14 14:33:51
+54			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td>PASSED</td>
+55			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: PASSED
+56			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td>AS_AS_0488</td>
+57			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: AS_AS_0488
+58			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td></td>
+59			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: 
+60			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td><a href="file:///AS_AS_0488_Tfe_2020-09-14_14-30-22.log"><code>AS_AS_0488_Tfe_2020-09-14_14-30-22.log</code></a></td>
+61			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: AS_AS_0488_Tfe_2020-09-14_14-30-22.log
+62			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td></td>
+63			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: 
+64			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td>2020 09 14 14:36:25</td>
+65			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: 2020 09 14 14:36:25
+66			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td>PASSED</td>
+67			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: PASSED
+68			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td>AS_AS_0487</td>
+69			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: AS_AS_0487
+70			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td></td>
+71			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: 
+72			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td><a href="file:///AS_AS_0487_Tfe_2020-09-14_14-33-52.log"><code>AS_AS_0487_Tfe_2020-09-14_14-33-52.log</code></a></td>
+73			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: AS_AS_0487_Tfe_2020-09-14_14-33-52.log
+74			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td></td>
+75			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: 
+76			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td>2020 09 14 14:55:05</td>
+77			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: 2020 09 14 14:55:05
+78			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td>PASSED</td>
+79			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: PASSED
+80			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td>SS026_BALISE_0121</td>
+81			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: SS026_BALISE_0121
+82			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td></td>
+83			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: 
+84			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td><a href="file:///SS026_BALISE_0121_Tfe_2020-09-14_14-36-27.log"><code>SS026_BALISE_0121_Tfe_2020-09-14_14-36-27.log</code></a></td>
+85			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: SS026_BALISE_0121_Tfe_2020-09-14_14-36-27.log
+86			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td></td>
+87			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: 
+88			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td>2020 09 14 15:00:55</td>
+89			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: 2020 09 14 15:00:55
+90			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td>PASSED</td>
+91			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: PASSED
+92			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td>SS026_BALISE_0123</td>
+93			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: SS026_BALISE_0123
+94			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td></td>
+95			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: 
+96			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td><a href="file:///SS026_BALISE_0123_Tfe_2020-09-14_14-55-07.log"><code>SS026_BALISE_0123_Tfe_2020-09-14_14-55-07.log</code></a></td>
+97			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: SS026_BALISE_0123_Tfe_2020-09-14_14-55-07.log
+98			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td></td>
+99			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: 
+100			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td>2020 09 14 15:08:52</td>
+101			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: 2020 09 14 15:08:52
+102			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td>PASSED</td>
+103			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: PASSED
+104			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td>SS026_BALISE_0148</td>
+105			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: SS026_BALISE_0148
+106			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td></td>
+107			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: 
+108			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td><a href="file:///SS026_BALISE_0148_Tfe_2020-09-14_15-00-56.log"><code>SS026_BALISE_0148_Tfe_2020-09-14_15-00-56.log</code></a></td>
+109			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: SS026_BALISE_0148_Tfe_2020-09-14_15-00-56.log
+110			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td></td>
+111			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: 
+112			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td>2020 09 14 15:13:09</td>
+113			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: 2020 09 14 15:13:09
+114			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td>PASSED</td>
+115			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: PASSED
+116			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td>SS026_MTEL_0106</td>
+117			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: SS026_MTEL_0106
+118			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td></td>
+119			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: 
+120			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td><a href="file:///SS026_MTEL_0106_Tfe_2020-09-14_15-08-53.log"><code>SS026_MTEL_0106_Tfe_2020-09-14_15-08-53.log</code></a></td>
+121			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: SS026_MTEL_0106_Tfe_2020-09-14_15-08-53.log
+122			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td></td>
+123			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: 
+124			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td>2020 09 14 15:19:13</td>
+125			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: 2020 09 14 15:19:13
+126			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td>PASSED</td>
+127			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: PASSED
+128			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td>SS026_MODE_0050</td>
+129			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: SS026_MODE_0050
+130			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td></td>
+131			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: 
+132			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td><a href="file:///SS026_MODE_0050_Tfe_2020-09-14_15-13-10.log"><code>SS026_MODE_0050_Tfe_2020-09-14_15-13-10.log</code></a></td>
+133			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: SS026_MODE_0050_Tfe_2020-09-14_15-13-10.log
+134			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td></td>
+135			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: 
+136			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td>2020 09 14 15:28:27</td>
+137			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: 2020 09 14 15:28:27
+138			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td>PASSED</td>
+139			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: PASSED
+140			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td>SS026_PROC_0016</td>
+141			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: SS026_PROC_0016
+142			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td></td>
+143			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: 
+144			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td><a href="file:///SS026_PROC_0016_Tfe_2020-09-14_15-19-14.log"><code>SS026_PROC_0016_Tfe_2020-09-14_15-19-14.log</code></a></td>
+145			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: SS026_PROC_0016_Tfe_2020-09-14_15-19-14.log
+146			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td></td>
+147			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: 
+148			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td>2020 09 14 15:32:22</td>
+149			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: 2020 09 14 15:32:22
+150			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td>PASSED</td>
+151			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: PASSED
+152			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td>SS026_PROC_0051</td>
+153			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: SS026_PROC_0051
+154			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td></td>
+155			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: 
+156			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td><a href="file:///SS026_PROC_0051_Tfe_2020-09-14_15-28-29.log"><code>SS026_PROC_0051_Tfe_2020-09-14_15-28-29.log</code></a></td>
+157			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: SS026_PROC_0051_Tfe_2020-09-14_15-28-29.log
+158			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td></td>
+159			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: 
+160			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td>2020 09 14 15:35:02</td>
+161			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: 2020 09 14 15:35:02
+162			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td>PASSED</td>
+163			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: PASSED
+164			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td>STM_035_0016</td>
+165			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: STM_035_0016
+166			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td></td>
+167			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: 
+168			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td><a href="file:///STM_035_0016_Tfe_2020-09-14_15-32-23.log"><code>STM_035_0016_Tfe_2020-09-14_15-32-23.log</code></a></td>
+169			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: STM_035_0016_Tfe_2020-09-14_15-32-23.log
+170			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td></td>
+171			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: 
+172			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td>2020 09 14 15:38:11</td>
+173			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: 2020 09 14 15:38:11
+174			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td>PASSED</td>
+175			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: PASSED
+176			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td>STM_035_0052</td>
+177			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: STM_035_0052
+178			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td></td>
+179			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: 
+180			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td><a href="file:///STM_035_0052_Tfe_2020-09-14_15-35-03.log"><code>STM_035_0052_Tfe_2020-09-14_15-35-03.log</code></a></td>
+181			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: STM_035_0052_Tfe_2020-09-14_15-35-03.log
+182			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td></td>
+183			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: 
+184			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td>2020 09 14 15:45:28</td>
+185			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: 2020 09 14 15:45:28
+186			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td>PASSED</td>
+187			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: PASSED
+188			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td>SS026_SPEC_0016</td>
+189			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: SS026_SPEC_0016
+190			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td>Q_relEBmodeRVatSS_Param=0</td>
+191			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: Q_relEBmodeRVatSS_Param=0
+192			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td><a href="file:///SS026_SPEC_0016_Tfe_2020-09-14_15-38-12.log"><code>SS026_SPEC_0016_Tfe_2020-09-14_15-38-12.log</code></a></td>
+193			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: SS026_SPEC_0016_Tfe_2020-09-14_15-38-12.log
+194			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td></td>
+195			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: 
+196			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td>2020 09 14 15:52:56</td>
+197			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: 2020 09 14 15:52:56
+198			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td>PASSED</td>
+199			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: PASSED
+200			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td>SS026_SPEC_0016</td>
+201			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: SS026_SPEC_0016
+202			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td>Q_relEBmodeRVatSS_Param=1</td>
+203			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: Q_relEBmodeRVatSS_Param=1
+204			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td><a href="file:///SS026_SPEC_0016_Tfe_2020-09-14_15-45-29.log"><code>SS026_SPEC_0016_Tfe_2020-09-14_15-45-29.log</code></a></td>
+205			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: SS026_SPEC_0016_Tfe_2020-09-14_15-45-29.log
+206			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td></td>
+207			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: 
+208			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td>2020 09 14 15:56:41</td>
+209			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: 2020 09 14 15:56:41
+210			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td>PASSED</td>
+211			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: PASSED
+212			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td>Subset_076_6_3_3050300_15_RIU_v300</td>
+213			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: Subset_076_6_3_3050300_15_RIU_v300
+214			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td></td>
+215			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: 
+216			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td><a href="file:///Subset_076_6_3_3050300_15_RIU_Tfe_2020-09-14_15-52-57.log"><code>Subset_076_6_3_3050300_15_RIU_Tfe_2020-09-14_15-52-57.log</code></a></td>
+217			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: Subset_076_6_3_3050300_15_RIU_Tfe_2020-09-14_15-52-57.log
+218			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td></td>
+219			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: 
+220			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td>2020 09 14 15:59:32</td>
+221			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: 2020 09 14 15:59:32
+222			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td>PASSED</td>
+223			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: PASSED
+224			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td>AS_TI_0006</td>
+225			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: AS_TI_0006
+226			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td></td>
+227			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: 
+228			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td><a href="file:///AS_TI_0006_Tfe_2020-09-14_15-56-43.log"><code>AS_TI_0006_Tfe_2020-09-14_15-56-43.log</code></a></td>
+229			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: AS_TI_0006_Tfe_2020-09-14_15-56-43.log
+230			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td></td>
+231			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: 
+232			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td>2020 09 14 16:02:30</td>
+233			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: 2020 09 14 16:02:30
+234			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td>PASSED</td>
+235			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: PASSED
+236			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td>AS_TI_0088</td>
+237			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: AS_TI_0088
+238			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td></td>
+239			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: 
+240			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td><a href="file:///AS_TI_0088_Tfe_2020-09-14_15-59-34.log"><code>AS_TI_0088_Tfe_2020-09-14_15-59-34.log</code></a></td>
+241			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: AS_TI_0088_Tfe_2020-09-14_15-59-34.log
+242			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td></td>
+243			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: 
+244			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td>2020 09 14 16:09:13</td>
+245			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: 2020 09 14 16:09:13
+246			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td>PASSED</td>
+247			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: PASSED
+248			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td>AS_AS_0075</td>
+249			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: AS_AS_0075
+250			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td></td>
+251			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: 
+252			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td><a href="file:///AS_AS_0075_Tfe_2020-09-14_16-03-37.log"><code>AS_AS_0075_Tfe_2020-09-14_16-03-37.log</code></a></td>
+253			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: AS_AS_0075_Tfe_2020-09-14_16-03-37.log
+254			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td></td>
+255			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: 
+256			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td>2020 09 14 16:15:04</td>
+257			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: 2020 09 14 16:15:04
+258			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td>PASSED</td>
+259			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: PASSED
+260			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td>AS_AS_0087</td>
+261			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: AS_AS_0087
+262			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td></td>
+263			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: 
+264			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td><a href="file:///AS_AS_0087_Tfe_2020-09-14_16-09-15.log"><code>AS_AS_0087_Tfe_2020-09-14_16-09-15.log</code></a></td>
+265			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: AS_AS_0087_Tfe_2020-09-14_16-09-15.log
+266			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td></td>
+267			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: 
+268			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td>2020 09 14 16:18:01</td>
+269			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: 2020 09 14 16:18:01
+270			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td>PASSED</td>
+271			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: PASSED
+272			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td>AS_AS_0488</td>
+273			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: AS_AS_0488
+274			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td></td>
+275			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: 
+276			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td><a href="file:///AS_AS_0488_Tfe_2020-09-14_16-15-06.log"><code>AS_AS_0488_Tfe_2020-09-14_16-15-06.log</code></a></td>
+277			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: AS_AS_0488_Tfe_2020-09-14_16-15-06.log
+278			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td></td>
+279			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: 
+280			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td>2020 09 14 16:20:45</td>
+281			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: 2020 09 14 16:20:45
+282			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td>PASSED</td>
+283			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: PASSED
+284			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td>AS_AS_0487</td>
+285			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: AS_AS_0487
+286			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td></td>
+287			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: 
+288			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td><a href="file:///AS_AS_0487_Tfe_2020-09-14_16-18-03.log"><code>AS_AS_0487_Tfe_2020-09-14_16-18-03.log</code></a></td>
+289			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: AS_AS_0487_Tfe_2020-09-14_16-18-03.log
+290			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td></td>
+291			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: 
+292			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td>2020 09 14 16:39:25</td>
+293			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: 2020 09 14 16:39:25
+294			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td>PASSED</td>
+295			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: PASSED
+296			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td>SS026_BALISE_0121</td>
+297			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: SS026_BALISE_0121
+298			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td></td>
+299			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: 
+300			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td><a href="file:///SS026_BALISE_0121_Tfe_2020-09-14_16-20-47.log"><code>SS026_BALISE_0121_Tfe_2020-09-14_16-20-47.log</code></a></td>
+301			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: SS026_BALISE_0121_Tfe_2020-09-14_16-20-47.log
+302			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td></td>
+303			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: 
+304			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td>2020 09 14 16:45:31</td>
+305			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: 2020 09 14 16:45:31
+306			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td>PASSED</td>
+307			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: PASSED
+308			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td>SS026_BALISE_0123</td>
+309			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: SS026_BALISE_0123
+310			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td></td>
+311			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: 
+312			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td><a href="file:///SS026_BALISE_0123_Tfe_2020-09-14_16-39-27.log"><code>SS026_BALISE_0123_Tfe_2020-09-14_16-39-27.log</code></a></td>
+313			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: SS026_BALISE_0123_Tfe_2020-09-14_16-39-27.log
+314			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td></td>
+315			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: 
+316			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td>2020 09 17 15:01:24</td>
+317			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: 2020 09 17 15:01:24
+318			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td>PASSED</td>
+319			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: PASSED
+320			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td>AS_AS_0075</td>
+321			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: AS_AS_0075
+322			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td></td>
+323			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: 
+324			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td><a href="file:///AS_AS_0075_Tfe_2020-09-17_14-55-55.log"><code>AS_AS_0075_Tfe_2020-09-17_14-55-55.log</code></a></td>
+325			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: AS_AS_0075_Tfe_2020-09-17_14-55-55.log
+326			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td></td>
+327			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: 
+328			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td>2020 09 17 15:07:19</td>
+329			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: 2020 09 17 15:07:19
+330			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td>PASSED</td>
+331			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: PASSED
+332			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td>AS_AS_0087</td>
+333			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: AS_AS_0087
+334			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td></td>
+335			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: 
+336			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td><a href="file:///AS_AS_0087_Tfe_2020-09-17_15-01-26.log"><code>AS_AS_0087_Tfe_2020-09-17_15-01-26.log</code></a></td>
+337			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: AS_AS_0087_Tfe_2020-09-17_15-01-26.log
+338			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td></td>
+339			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: 
+340			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td>2020 09 17 15:23:00</td>
+341			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: 2020 09 17 15:23:00
+342			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td>PASSED</td>
+343			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: PASSED
+344			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td>AS_AS_0488</td>
+345			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: AS_AS_0488
+346			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td></td>
+347			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: 
+348			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td><a href="file:///AS_AS_0488_Tfe_2020-09-17_15-20-18.log"><code>AS_AS_0488_Tfe_2020-09-17_15-20-18.log</code></a></td>
+349			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: AS_AS_0488_Tfe_2020-09-17_15-20-18.log
+350			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td></td>
+351			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: 
+352			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td>2020 09 17 15:25:39</td>
+353			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: 2020 09 17 15:25:39
+354			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td>PASSED</td>
+355			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: PASSED
+356			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td>AS_AS_0487</td>
+357			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: AS_AS_0487
+358			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td></td>
+359			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: 
+360			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td><a href="file:///AS_AS_0487_Tfe_2020-09-17_15-23-09.log"><code>AS_AS_0487_Tfe_2020-09-17_15-23-09.log</code></a></td>
+361			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: AS_AS_0487_Tfe_2020-09-17_15-23-09.log
+362			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td></td>
+363			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: 
+364			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td>2020 09 17 15:46:28</td>
+365			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: 2020 09 17 15:46:28
+366			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td>PASSED</td>
+367			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: PASSED
+368			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td>SS026_BALISE_0121</td>
+369			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: SS026_BALISE_0121
+370			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td></td>
+371			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: 
+372			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td><a href="file:///SS026_BALISE_0121_Tfe_2020-09-17_15-27-51.log"><code>SS026_BALISE_0121_Tfe_2020-09-17_15-27-51.log</code></a></td>
+373			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: SS026_BALISE_0121_Tfe_2020-09-17_15-27-51.log
+374			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td></td>
+375			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: 
+376			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td>2020 09 17 15:52:52</td>
+377			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: 2020 09 17 15:52:52
+378			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td>PASSED</td>
+379			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: PASSED
+380			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td>SS026_BALISE_0123</td>
+381			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: SS026_BALISE_0123
+382			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td></td>
+383			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: 
+384			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td><a href="file:///SS026_BALISE_0123_Tfe_2020-09-17_15-47-10.log"><code>SS026_BALISE_0123_Tfe_2020-09-17_15-47-10.log</code></a></td>
+385			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: SS026_BALISE_0123_Tfe_2020-09-17_15-47-10.log
+386			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td></td>
+387			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: 
+388			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td>2020 09 17 16:02:20</td>
+389			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: 2020 09 17 16:02:20
+390			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td>PASSED</td>
+391			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: PASSED
+392			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td>SS026_BALISE_0148</td>
+393			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: SS026_BALISE_0148
+394			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td></td>
+395			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: 
+396			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td><a href="file:///SS026_BALISE_0148_Tfe_2020-09-17_15-54-25.log"><code>SS026_BALISE_0148_Tfe_2020-09-17_15-54-25.log</code></a></td>
+397			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: SS026_BALISE_0148_Tfe_2020-09-17_15-54-25.log
+398			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td></td>
+399			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: 
+400			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td>2020 09 17 17:05:30</td>
+401			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: 2020 09 17 17:05:30
+402			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td>PASSED</td>
+403			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: PASSED
+404			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td>SS026_MTEL_0106</td>
+405			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: SS026_MTEL_0106
+406			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td></td>
+407			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: 
+408			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td><a href="file:///SS026_MTEL_0106_Tfe_2020-09-17_17-01-16.log"><code>SS026_MTEL_0106_Tfe_2020-09-17_17-01-16.log</code></a></td>
+409			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: SS026_MTEL_0106_Tfe_2020-09-17_17-01-16.log
+410			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td></td>
+411			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: 
+412			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td>2020 09 18 11:24:02</td>
+413			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: 2020 09 18 11:24:02
+414			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td>FAILED</td>
+415			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: FAILED
+416			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td>Subset_076_6_3_3180300_01_v300</td>
+417			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: Subset_076_6_3_3180300_01_v300
+418			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td></td>
+419			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: 
+420			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td><a href="file:///Subset_076_6_3_3180300_01_Tfe_2020-09-18_11-18-54.log"><code>Subset_076_6_3_3180300_01_Tfe_2020-09-18_11-18-54.log</code></a></td>
+421			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: Subset_076_6_3_3180300_01_Tfe_2020-09-18_11-18-54.log
+422			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td> =====>1135:              AutoVerify = Track.EuroRadio.RbcMessage.IsFound(RbcMask.RbcMessage(129).Data("NC_CDTRAIN", 5).Data("NC_TRAIN", 4), 60 * 1000);</td>
+423			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted:  =====>1135:              AutoVerify = Track.EuroRadio.RbcMessage.IsFound(RbcMask.RbcMessage(129).Data("NC_CDTRAIN", 5).Data("NC_TRAIN", 4), 60 * 1000);
+424			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td>2020 09 18 16:30:16</td>
+425			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: 2020 09 18 16:30:16
+426			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td>FAILED</td>
+427			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: FAILED
+428			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td>Subset_076_6_3_3180300_01_v300</td>
+429			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: Subset_076_6_3_3180300_01_v300
+430			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td></td>
+431			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: 
+432			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td><a href="file:///Subset_076_6_3_3180300_01_Tfe_2020-09-18_16-26-06.log"><code>Subset_076_6_3_3180300_01_Tfe_2020-09-18_16-26-06.log</code></a></td>
+433			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: Subset_076_6_3_3180300_01_Tfe_2020-09-18_16-26-06.log
+434			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td> =====>1030: 			 AutoVerify = Vehicle.DMI1.ActiveForm.CheckEq((int)DialogForms.TrainDataForm, 5 * 1000);</td>
+435			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted:  =====>1030: 			 AutoVerify = Vehicle.DMI1.ActiveForm.CheckEq((int)DialogForms.TrainDataForm, 5 * 1000);
+436			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td>2020 09 18 16:37:21</td>
+437			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: 2020 09 18 16:37:21
+438			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td>PASSED</td>
+439			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: PASSED
+440			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td>AS_AS_0001</td>
+441			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: AS_AS_0001
+442			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td></td>
+443			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: 
+444			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td><a href="file:///AS_AS_0001_Tfe_2020-09-18_16-30-33.log"><code>AS_AS_0001_Tfe_2020-09-18_16-30-33.log</code></a></td>
+445			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: AS_AS_0001_Tfe_2020-09-18_16-30-33.log
+446			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td></td>
+447			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: 
+448			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td>2020 09 22 12:44:52</td>
+449			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: 2020 09 22 12:44:52
+450			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td>FAILED</td>
+451			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: FAILED
+452			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td>AS_AS_0001</td>
+453			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: AS_AS_0001
+454			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td></td>
+455			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: 
+456			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td><a href="file:///AS_AS_0001_Tfe_2020-09-22_12-40-27.log"><code>AS_AS_0001_Tfe_2020-09-22_12-40-27.log</code></a></td>
+457			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: AS_AS_0001_Tfe_2020-09-22_12-40-27.log
+458			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td></td>
+459			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: 
+460			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td>2020 09 23 13:42:21</td>
+461			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: 2020 09 23 13:42:21
+462			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td>PASSED</td>
+463			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: PASSED
+464			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td>AS_AS_0001</td>
+465			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: AS_AS_0001
+466			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td></td>
+467			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: 
+468			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td><a href="file:///AS_AS_0001_Tfe_2020-09-23_13-35-36.log"><code>AS_AS_0001_Tfe_2020-09-23_13-35-36.log</code></a></td>
+469			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: AS_AS_0001_Tfe_2020-09-23_13-35-36.log
+470			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td></td>
+471			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: 
+472			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td>2020 09 23 15:34:01</td>
+473			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: 2020 09 23 15:34:01
+474			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td>PASSED</td>
+475			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: PASSED
+476			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td>AS_AS_0075</td>
+477			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: AS_AS_0075
+478			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td></td>
+479			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: 
+480			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td><a href="file:///AS_AS_0075_Tfe_2020-09-23_15-28-31.log"><code>AS_AS_0075_Tfe_2020-09-23_15-28-31.log</code></a></td>
+481			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: AS_AS_0075_Tfe_2020-09-23_15-28-31.log
+482			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td></td>
+483			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: 
+484			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td>2020 09 23 15:39:58</td>
+485			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: 2020 09 23 15:39:58
+486			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td>PASSED</td>
+487			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: PASSED
+488			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td>AS_AS_0087</td>
+489			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: AS_AS_0087
+490			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td></td>
+491			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: 
+492			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td><a href="file:///AS_AS_0087_Tfe_2020-09-23_15-34-02.log"><code>AS_AS_0087_Tfe_2020-09-23_15-34-02.log</code></a></td>
+493			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: AS_AS_0087_Tfe_2020-09-23_15-34-02.log
+494			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td></td>
+495			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: 
+496			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td>2020 09 23 15:42:57</td>
+497			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: 2020 09 23 15:42:57
+498			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td>PASSED</td>
+499			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: PASSED
+500			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td>AS_AS_0488</td>
+501			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: AS_AS_0488
+502			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td></td>
+503			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: 
+504			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td><a href="file:///AS_AS_0488_Tfe_2020-09-23_15-40-00.log"><code>AS_AS_0488_Tfe_2020-09-23_15-40-00.log</code></a></td>
+505			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: AS_AS_0488_Tfe_2020-09-23_15-40-00.log
+506			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td></td>
+507			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: 
+508			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td>2020 09 23 15:45:44</td>
+509			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: 2020 09 23 15:45:44
+510			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td>PASSED</td>
+511			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: PASSED
+512			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td>AS_AS_0487</td>
+513			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: AS_AS_0487
+514			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td></td>
+515			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: 
+516			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td><a href="file:///AS_AS_0487_Tfe_2020-09-23_15-42-59.log"><code>AS_AS_0487_Tfe_2020-09-23_15-42-59.log</code></a></td>
+517			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: AS_AS_0487_Tfe_2020-09-23_15-42-59.log
+518			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td></td>
+519			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: 
+520			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td>2020 09 23 16:04:44</td>
+521			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: 2020 09 23 16:04:44
+522			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td>PASSED</td>
+523			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: PASSED
+524			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td>SS026_BALISE_0121</td>
+525			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: SS026_BALISE_0121
+526			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td></td>
+527			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: 
+528			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td><a href="file:///SS026_BALISE_0121_Tfe_2020-09-23_15-45-46.log"><code>SS026_BALISE_0121_Tfe_2020-09-23_15-45-46.log</code></a></td>
+529			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: SS026_BALISE_0121_Tfe_2020-09-23_15-45-46.log
+530			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td></td>
+531			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: 
+532			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td>2020 09 23 16:10:47</td>
+533			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: 2020 09 23 16:10:47
+534			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td>PASSED</td>
+535			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: PASSED
+536			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td>SS026_BALISE_0123</td>
+537			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: SS026_BALISE_0123
+538			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td></td>
+539			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: 
+540			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td><a href="file:///SS026_BALISE_0123_Tfe_2020-09-23_16-04-45.log"><code>SS026_BALISE_0123_Tfe_2020-09-23_16-04-45.log</code></a></td>
+541			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: SS026_BALISE_0123_Tfe_2020-09-23_16-04-45.log
+542			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td></td>
+543			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: 
+544			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td>2020 09 23 16:18:54</td>
+545			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: 2020 09 23 16:18:54
+546			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td>PASSED</td>
+547			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: PASSED
+548			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td>SS026_BALISE_0148</td>
+549			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: SS026_BALISE_0148
+550			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td></td>
+551			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: 
+552			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td><a href="file:///SS026_BALISE_0148_Tfe_2020-09-23_16-10-49.log"><code>SS026_BALISE_0148_Tfe_2020-09-23_16-10-49.log</code></a></td>
+553			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: SS026_BALISE_0148_Tfe_2020-09-23_16-10-49.log
+554			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td></td>
+555			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: 
+556			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td>2020 09 23 16:23:19</td>
+557			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: 2020 09 23 16:23:19
+558			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td>PASSED</td>
+559			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: PASSED
+560			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td>SS026_MTEL_0106</td>
+561			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: SS026_MTEL_0106
+562			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td></td>
+563			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: 
+564			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td><a href="file:///SS026_MTEL_0106_Tfe_2020-09-23_16-18-56.log"><code>SS026_MTEL_0106_Tfe_2020-09-23_16-18-56.log</code></a></td>
+565			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: SS026_MTEL_0106_Tfe_2020-09-23_16-18-56.log
+566			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td></td>
+567			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: 
+568			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td>2020 09 23 16:29:32</td>
+569			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: 2020 09 23 16:29:32
+570			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td>PASSED</td>
+571			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: PASSED
+572			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td>SS026_MODE_0050</td>
+573			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: SS026_MODE_0050
+574			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td></td>
+575			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: 
+576			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td><a href="file:///SS026_MODE_0050_Tfe_2020-09-23_16-23-21.log"><code>SS026_MODE_0050_Tfe_2020-09-23_16-23-21.log</code></a></td>
+577			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: SS026_MODE_0050_Tfe_2020-09-23_16-23-21.log
+578			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td></td>
+579			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: 
+580			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td>2020 09 23 16:38:55</td>
+581			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: 2020 09 23 16:38:55
+582			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td>PASSED</td>
+583			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: PASSED
+584			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td>SS026_PROC_0016</td>
+585			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: SS026_PROC_0016
+586			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td></td>
+587			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: 
+588			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td><a href="file:///SS026_PROC_0016_Tfe_2020-09-23_16-29-33.log"><code>SS026_PROC_0016_Tfe_2020-09-23_16-29-33.log</code></a></td>
+589			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: SS026_PROC_0016_Tfe_2020-09-23_16-29-33.log
+590			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td></td>
+591			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: 
+592			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td>2020 09 23 16:42:58</td>
+593			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: 2020 09 23 16:42:58
+594			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td>PASSED</td>
+595			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: PASSED
+596			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td>SS026_PROC_0051</td>
+597			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: SS026_PROC_0051
+598			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td></td>
+599			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: 
+600			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td><a href="file:///SS026_PROC_0051_Tfe_2020-09-23_16-38-57.log"><code>SS026_PROC_0051_Tfe_2020-09-23_16-38-57.log</code></a></td>
+601			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: SS026_PROC_0051_Tfe_2020-09-23_16-38-57.log
+602			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td></td>
+603			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: 
+604			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td>2020 09 23 16:45:46</td>
+605			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: 2020 09 23 16:45:46
+606			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td>PASSED</td>
+607			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: PASSED
+608			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td>STM_035_0016</td>
+609			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: STM_035_0016
+610			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td></td>
+611			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: 
+612			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td><a href="file:///STM_035_0016_Tfe_2020-09-23_16-42-59.log"><code>STM_035_0016_Tfe_2020-09-23_16-42-59.log</code></a></td>
+613			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: STM_035_0016_Tfe_2020-09-23_16-42-59.log
+614			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td></td>
+615			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: 
+616			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td>2020 09 23 16:49:03</td>
+617			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: 2020 09 23 16:49:03
+618			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td>PASSED</td>
+619			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: PASSED
+620			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td>STM_035_0052</td>
+621			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: STM_035_0052
+622			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td></td>
+623			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: 
+624			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td><a href="file:///STM_035_0052_Tfe_2020-09-23_16-45-47.log"><code>STM_035_0052_Tfe_2020-09-23_16-45-47.log</code></a></td>
+625			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: STM_035_0052_Tfe_2020-09-23_16-45-47.log
+626			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td></td>
+627			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: 
+628			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td>2020 09 23 16:56:31</td>
+629			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: 2020 09 23 16:56:31
+630			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td>PASSED</td>
+631			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: PASSED
+632			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td>SS026_SPEC_0016</td>
+633			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: SS026_SPEC_0016
+634			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td>Q_relEBmodeRVatSS_Param=0</td>
+635			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: Q_relEBmodeRVatSS_Param=0
+636			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td><a href="file:///SS026_SPEC_0016_Tfe_2020-09-23_16-49-05.log"><code>SS026_SPEC_0016_Tfe_2020-09-23_16-49-05.log</code></a></td>
+637			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: SS026_SPEC_0016_Tfe_2020-09-23_16-49-05.log
+638			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td></td>
+639			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: 
+640			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td>2020 09 23 17:04:07</td>
+641			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: 2020 09 23 17:04:07
+642			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td>PASSED</td>
+643			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: PASSED
+644			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td>SS026_SPEC_0016</td>
+645			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: SS026_SPEC_0016
+646			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td>Q_relEBmodeRVatSS_Param=1</td>
+647			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: Q_relEBmodeRVatSS_Param=1
+648			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td><a href="file:///SS026_SPEC_0016_Tfe_2020-09-23_16-56-32.log"><code>SS026_SPEC_0016_Tfe_2020-09-23_16-56-32.log</code></a></td>
+649			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: SS026_SPEC_0016_Tfe_2020-09-23_16-56-32.log
+650			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td></td>
+651			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: 
+652			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td>2020 09 23 17:08:59</td>
+653			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: 2020 09 23 17:08:59
+654			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td>PASSED</td>
+655			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: PASSED
+656			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td>Subset_076_6_3_3050300_15_RIU_v300</td>
+657			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: Subset_076_6_3_3050300_15_RIU_v300
+658			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td></td>
+659			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: 
+660			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td><a href="file:///Subset_076_6_3_3050300_15_RIU_Tfe_2020-09-23_17-04-08.log"><code>Subset_076_6_3_3050300_15_RIU_Tfe_2020-09-23_17-04-08.log</code></a></td>
+661			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: Subset_076_6_3_3050300_15_RIU_Tfe_2020-09-23_17-04-08.log
+662			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td></td>
+663			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: 
+664			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td>2020 09 23 17:11:57</td>
+665			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: 2020 09 23 17:11:57
+666			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td>PASSED</td>
+667			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: PASSED
+668			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td>AS_TI_0006</td>
+669			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: AS_TI_0006
+670			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td></td>
+671			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: 
+672			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td><a href="file:///AS_TI_0006_Tfe_2020-09-23_17-09-00.log"><code>AS_TI_0006_Tfe_2020-09-23_17-09-00.log</code></a></td>
+673			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: AS_TI_0006_Tfe_2020-09-23_17-09-00.log
+674			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td></td>
+675			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: 
+676			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td>2020 09 23 17:15:04</td>
+677			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: 2020 09 23 17:15:04
+678			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td>PASSED</td>
+679			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: PASSED
+680			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td>AS_TI_0088</td>
+681			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: AS_TI_0088
+682			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td></td>
+683			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: 
+684			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td><a href="file:///AS_TI_0088_Tfe_2020-09-23_17-11-59.log"><code>AS_TI_0088_Tfe_2020-09-23_17-11-59.log</code></a></td>
+685			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: AS_TI_0088_Tfe_2020-09-23_17-11-59.log
+686			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td></td>
+687			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: 
+688			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td>2020 09 28 17:15:29</td>
+689			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: 2020 09 28 17:15:29
+690			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td>FAILED</td>
+691			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: FAILED
+692			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td>AS_AS_0001</td>
+693			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: AS_AS_0001
+694			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td></td>
+695			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: 
+696			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td><a href="file:///AS_AS_0001_Tfe_2020-09-28_17-12-17.log"><code>AS_AS_0001_Tfe_2020-09-28_17-12-17.log</code></a></td>
+697			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: AS_AS_0001_Tfe_2020-09-28_17-12-17.log
+698			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td></td>
+699			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: 
+700			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td>2020 10 08 13:27:04</td>
+701			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: 2020 10 08 13:27:04
+702			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td>FAILED</td>
+703			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: FAILED
+704			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td>Subset_076_6_3_3050700_05_v320</td>
+705			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: Subset_076_6_3_3050700_05_v320
+706			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td></td>
+707			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: 
+708			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td><a href="file:///Subset_076_6_3_3050700_05_v320_Tfe_2020-10-08_13-25-02.log"><code>Subset_076_6_3_3050700_05_v320_Tfe_2020-10-08_13-25-02.log</code></a></td>
+709			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: Subset_076_6_3_3050700_05_v320_Tfe_2020-10-08_13-25-02.log
+710			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td> =====> 273:             AutoVerify = StartSimulators(@"SS076_BL3.6\tdg\Subset_076_6_3_3050700_05_v320", @"SS076_BL3.6\utt\Subset_076_6_3_3050700_05_v320");</td>
+711			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted:  =====> 273:             AutoVerify = StartSimulators(@"SS076_BL3.6\tdg\Subset_076_6_3_3050700_05_v320", @"SS076_BL3.6\utt\Subset_076_6_3_3050700_05_v320");
+712			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td>2020 10 08 13:33:31</td>
+713			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: 2020 10 08 13:33:31
+714			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td>FAILED</td>
+715			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: FAILED
+716			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td>Subset_076_6_3_3050700_05_v320</td>
+717			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: Subset_076_6_3_3050700_05_v320
+718			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td></td>
+719			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: 
+720			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td><a href="file:///Subset_076_6_3_3050700_05_v320_Tfe_2020-10-08_13-31-28.log"><code>Subset_076_6_3_3050700_05_v320_Tfe_2020-10-08_13-31-28.log</code></a></td>
+721			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: Subset_076_6_3_3050700_05_v320_Tfe_2020-10-08_13-31-28.log
+722			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td></td>
+723			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: 
+724			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td>2020 10 08 13:38:05</td>
+725			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: 2020 10 08 13:38:05
+726			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td>FAILED</td>
+727			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: FAILED
+728			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td>Subset_076_6_3_3050700_05_v320</td>
+729			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: Subset_076_6_3_3050700_05_v320
+730			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td></td>
+731			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: 
+732			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td><a href="file:///Subset_076_6_3_3050700_05_v320_Tfe_2020-10-08_13-36-03.log"><code>Subset_076_6_3_3050700_05_v320_Tfe_2020-10-08_13-36-03.log</code></a></td>
+733			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: Subset_076_6_3_3050700_05_v320_Tfe_2020-10-08_13-36-03.log
+734			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td></td>
+735			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: 
+736			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td>2020 10 08 13:44:14</td>
+737			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: 2020 10 08 13:44:14
+738			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td>FAILED</td>
+739			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: FAILED
+740			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td>Subset_076_6_3_3050700_05_v320</td>
+741			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: Subset_076_6_3_3050700_05_v320
+742			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td></td>
+743			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: 
+744			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td><a href="file:///Subset_076_6_3_3050700_05_v320_Tfe_2020-10-08_13-38-49.log"><code>Subset_076_6_3_3050700_05_v320_Tfe_2020-10-08_13-38-49.log</code></a></td>
+745			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: Subset_076_6_3_3050700_05_v320_Tfe_2020-10-08_13-38-49.log
+746			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td> =====> 902:             AutoVerify = Track.EuroRadio.NetworkInfo.SaConnectStatus.Check(s => s == "Request", "SaConnectStatus is Request", 60 * 1000);</td>
+747			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted:  =====> 902:             AutoVerify = Track.EuroRadio.NetworkInfo.SaConnectStatus.Check(s => s == "Request", "SaConnectStatus is Request", 60 * 1000);
+748			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td>2020 10 08 18:00:19</td>
+749			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: 2020 10 08 18:00:19
+750			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td>FAILED</td>
+751			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: FAILED
+752			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td>Subset_076_6_3_3050700_05_v320</td>
+753			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: Subset_076_6_3_3050700_05_v320
+754			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td></td>
+755			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: 
+756			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td><a href="file:///Subset_076_6_3_3050700_05_v320_Tfe_2020-10-08_17-54-35.log"><code>Subset_076_6_3_3050700_05_v320_Tfe_2020-10-08_17-54-35.log</code></a></td>
+757			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: Subset_076_6_3_3050700_05_v320_Tfe_2020-10-08_17-54-35.log
+758			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td> =====> 902:             AutoVerify = Track.EuroRadio.NetworkInfo.SaConnectStatus.Check(s => s == "Request", "SaConnectStatus is Request", 60 * 1000);</td>
+759			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted:  =====> 902:             AutoVerify = Track.EuroRadio.NetworkInfo.SaConnectStatus.Check(s => s == "Request", "SaConnectStatus is Request", 60 * 1000);
+760			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td>2020 10 08 18:17:27</td>
+761			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: 2020 10 08 18:17:27
+762			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td>PASSED</td>
+763			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: PASSED
+764			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td>AS_AS_0075</td>
+765			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: AS_AS_0075
+766			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td></td>
+767			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: 
+768			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td><a href="file:///AS_AS_0075_Tfe_2020-10-08_18-11-51.log"><code>AS_AS_0075_Tfe_2020-10-08_18-11-51.log</code></a></td>
+769			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: AS_AS_0075_Tfe_2020-10-08_18-11-51.log
+770			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td></td>
+771			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: 
+772			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td>2020 10 08 18:18:01</td>
+773			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: 2020 10 08 18:18:01
+774			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td>FAILED</td>
+775			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: FAILED
+776			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td>AS_AS_0087</td>
+777			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: AS_AS_0087
+778			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td></td>
+779			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: 
+780			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td><a href="file:///AS_AS_0087_Tfe_2020-10-08_18-17-28.log"><code>AS_AS_0087_Tfe_2020-10-08_18-17-28.log</code></a></td>
+781			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: AS_AS_0087_Tfe_2020-10-08_18-17-28.log
+782			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td></td>
+783			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: 
+784			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td>2020 10 08 18:20:49</td>
+785			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: 2020 10 08 18:20:49
+786			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td>PASSED</td>
+787			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: PASSED
+788			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td>AS_AS_0488</td>
+789			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: AS_AS_0488
+790			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td></td>
+791			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: 
+792			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td><a href="file:///AS_AS_0488_Tfe_2020-10-08_18-18-03.log"><code>AS_AS_0488_Tfe_2020-10-08_18-18-03.log</code></a></td>
+793			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: AS_AS_0488_Tfe_2020-10-08_18-18-03.log
+794			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td></td>
+795			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: 
+796			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td>2020 10 08 18:21:24</td>
+797			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: 2020 10 08 18:21:24
+798			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td>FAILED</td>
+799			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: FAILED
+800			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td>AS_AS_0487</td>
+801			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: AS_AS_0487
+802			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td></td>
+803			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: 
+804			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td><a href="file:///AS_AS_0487_Tfe_2020-10-08_18-20-50.log"><code>AS_AS_0487_Tfe_2020-10-08_18-20-50.log</code></a></td>
+805			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: AS_AS_0487_Tfe_2020-10-08_18-20-50.log
+806			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td></td>
+807			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: 
+808			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td>2020 10 08 18:40:19</td>
+809			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: 2020 10 08 18:40:19
+810			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td>PASSED</td>
+811			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: PASSED
+812			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td>SS026_BALISE_0121</td>
+813			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: SS026_BALISE_0121
+814			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td></td>
+815			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: 
+816			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td><a href="file:///SS026_BALISE_0121_Tfe_2020-10-08_18-21-25.log"><code>SS026_BALISE_0121_Tfe_2020-10-08_18-21-25.log</code></a></td>
+817			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: SS026_BALISE_0121_Tfe_2020-10-08_18-21-25.log
+818			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td></td>
+819			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: 
+820			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td>2020 10 08 18:46:26</td>
+821			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: 2020 10 08 18:46:26
+822			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td>PASSED</td>
+823			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: PASSED
+824			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td>SS026_BALISE_0123</td>
+825			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: SS026_BALISE_0123
+826			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td></td>
+827			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: 
+828			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td><a href="file:///SS026_BALISE_0123_Tfe_2020-10-08_18-40-21.log"><code>SS026_BALISE_0123_Tfe_2020-10-08_18-40-21.log</code></a></td>
+829			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: SS026_BALISE_0123_Tfe_2020-10-08_18-40-21.log
+830			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td></td>
+831			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: 
+832			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td>2020 10 08 18:47:13</td>
+833			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: 2020 10 08 18:47:13
+834			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td>FAILED</td>
+835			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: FAILED
+836			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td>SS026_BALISE_0148</td>
+837			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: SS026_BALISE_0148
+838			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td></td>
+839			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: 
+840			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td><a href="file:///SS026_BALISE_0148_Tfe_2020-10-08_18-46-28.log"><code>SS026_BALISE_0148_Tfe_2020-10-08_18-46-28.log</code></a></td>
+841			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: SS026_BALISE_0148_Tfe_2020-10-08_18-46-28.log
+842			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td></td>
+843			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: 
+844			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td>2020 10 08 18:51:30</td>
+845			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: 2020 10 08 18:51:30
+846			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td>PASSED</td>
+847			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: PASSED
+848			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td>SS026_MTEL_0106</td>
+849			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: SS026_MTEL_0106
+850			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td></td>
+851			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: 
+852			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td><a href="file:///SS026_MTEL_0106_Tfe_2020-10-08_18-47-14.log"><code>SS026_MTEL_0106_Tfe_2020-10-08_18-47-14.log</code></a></td>
+853			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: SS026_MTEL_0106_Tfe_2020-10-08_18-47-14.log
+854			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td></td>
+855			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: 
+856			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td>2020 10 08 18:52:16</td>
+857			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: 2020 10 08 18:52:16
+858			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td>FAILED</td>
+859			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: FAILED
+860			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td>SS026_MODE_0050</td>
+861			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: SS026_MODE_0050
+862			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td></td>
+863			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: 
+864			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td><a href="file:///SS026_MODE_0050_Tfe_2020-10-08_18-51-32.log"><code>SS026_MODE_0050_Tfe_2020-10-08_18-51-32.log</code></a></td>
+865			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: SS026_MODE_0050_Tfe_2020-10-08_18-51-32.log
+866			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td></td>
+867			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: 
+868			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td>2020 10 08 19:00:11</td>
+869			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: 2020 10 08 19:00:11
+870			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td>PASSED</td>
+871			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: PASSED
+872			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td>AS_AS_0087</td>
+873			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: AS_AS_0087
+874			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td></td>
+875			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: 
+876			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td><a href="file:///AS_AS_0087_Tfe_2020-10-08_18-54-00.log"><code>AS_AS_0087_Tfe_2020-10-08_18-54-00.log</code></a></td>
+877			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: AS_AS_0087_Tfe_2020-10-08_18-54-00.log
+878			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td></td>
+879			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: 
+880			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td>2020 10 08 19:03:05</td>
+881			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: 2020 10 08 19:03:05
+882			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td>PASSED</td>
+883			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: PASSED
+884			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td>AS_AS_0487</td>
+885			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: AS_AS_0487
+886			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td></td>
+887			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: 
+888			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td><a href="file:///AS_AS_0487_Tfe_2020-10-08_19-00-13.log"><code>AS_AS_0487_Tfe_2020-10-08_19-00-13.log</code></a></td>
+889			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: AS_AS_0487_Tfe_2020-10-08_19-00-13.log
+890			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td></td>
+891			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: 
+892			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td>2020 10 08 19:03:53</td>
+893			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: 2020 10 08 19:03:53
+894			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td>FAILED</td>
+895			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: FAILED
+896			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td>SS026_BALISE_0148</td>
+897			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: SS026_BALISE_0148
+898			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td></td>
+899			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: 
+900			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td><a href="file:///SS026_BALISE_0148_Tfe_2020-10-08_19-03-07.log"><code>SS026_BALISE_0148_Tfe_2020-10-08_19-03-07.log</code></a></td>
+901			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: SS026_BALISE_0148_Tfe_2020-10-08_19-03-07.log
+902			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td></td>
+903			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: 
+904			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td>2020 10 08 19:04:42</td>
+905			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: 2020 10 08 19:04:42
+906			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td>FAILED</td>
+907			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: FAILED
+908			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td>SS026_MODE_0050</td>
+909			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: SS026_MODE_0050
+910			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td></td>
+911			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: 
+912			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td><a href="file:///SS026_MODE_0050_Tfe_2020-10-08_19-03-55.log"><code>SS026_MODE_0050_Tfe_2020-10-08_19-03-55.log</code></a></td>
+913			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: SS026_MODE_0050_Tfe_2020-10-08_19-03-55.log
+914			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td></td>
+915			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: 
+916			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td>2020 10 08 19:05:18</td>
+917			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: 2020 10 08 19:05:18
+918			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td>FAILED</td>
+919			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: FAILED
+920			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td>SS026_PROC_0016</td>
+921			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: SS026_PROC_0016
+922			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td></td>
+923			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: 
+924			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td><a href="file:///SS026_PROC_0016_Tfe_2020-10-08_19-04-44.log"><code>SS026_PROC_0016_Tfe_2020-10-08_19-04-44.log</code></a></td>
+925			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: SS026_PROC_0016_Tfe_2020-10-08_19-04-44.log
+926			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td></td>
+927			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: 
+928			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td>2020 10 08 19:14:54</td>
+929			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: 2020 10 08 19:14:54
+930			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td>PASSED</td>
+931			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: PASSED
+932			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td>SS026_BALISE_0148</td>
+933			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: SS026_BALISE_0148
+934			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td></td>
+935			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: 
+936			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td><a href="file:///D:/TCBaselines/Workarea_5.0.98_200914/scripts/Common/UniTEexe/SS026_BALISE_0148_Tfe_2020-10-08_19-06-35.log"><code>SS026_BALISE_0148_Tfe_2020-10-08_19-06-35.log</code></a></td>
+937			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: SS026_BALISE_0148_Tfe_2020-10-08_19-06-35.log
+938			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td></td>
+939			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: 
+940			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td>2020 10 08 19:21:13</td>
+941			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: 2020 10 08 19:21:13
+942			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td>PASSED</td>
+943			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: PASSED
+944			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td>SS026_MODE_0050</td>
+945			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: SS026_MODE_0050
+946			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td></td>
+947			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: 
+948			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td><a href="file:///SS026_MODE_0050_Tfe_2020-10-08_19-14-56.log"><code>SS026_MODE_0050_Tfe_2020-10-08_19-14-56.log</code></a></td>
+949			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: SS026_MODE_0050_Tfe_2020-10-08_19-14-56.log
+950			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td></td>
+951			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: 
+952			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td>2020 10 08 19:30:50</td>
+953			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: 2020 10 08 19:30:50
+954			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td>PASSED</td>
+955			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: PASSED
+956			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td>SS026_PROC_0016</td>
+957			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: SS026_PROC_0016
+958			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td></td>
+959			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: 
+960			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td><a href="file:///SS026_PROC_0016_Tfe_2020-10-08_19-21-15.log"><code>SS026_PROC_0016_Tfe_2020-10-08_19-21-15.log</code></a></td>
+961			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: SS026_PROC_0016_Tfe_2020-10-08_19-21-15.log
+962			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td></td>
+963			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: 
+964			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td>2020 10 08 19:35:02</td>
+965			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: 2020 10 08 19:35:02
+966			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td>PASSED</td>
+967			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: PASSED
+968			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td>SS026_PROC_0051</td>
+969			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: SS026_PROC_0051
+970			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td></td>
+971			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: 
+972			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td><a href="file:///SS026_PROC_0051_Tfe_2020-10-08_19-30-52.log"><code>SS026_PROC_0051_Tfe_2020-10-08_19-30-52.log</code></a></td>
+973			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: SS026_PROC_0051_Tfe_2020-10-08_19-30-52.log
+974			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td></td>
+975			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: 
+976			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td>2020 10 08 19:37:56</td>
+977			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: 2020 10 08 19:37:56
+978			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td>PASSED</td>
+979			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: PASSED
+980			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td>STM_035_0016</td>
+981			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: STM_035_0016
+982			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td></td>
+983			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: 
+984			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td><a href="file:///STM_035_0016_Tfe_2020-10-08_19-35-04.log"><code>STM_035_0016_Tfe_2020-10-08_19-35-04.log</code></a></td>
+985			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: STM_035_0016_Tfe_2020-10-08_19-35-04.log
+986			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td></td>
+987			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: 
+988			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td>2020 10 08 19:41:24</td>
+989			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: 2020 10 08 19:41:24
+990			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td>PASSED</td>
+991			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: PASSED
+992			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td>STM_035_0052</td>
+993			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: STM_035_0052
+994			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td></td>
+995			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: 
+996			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td><a href="file:///STM_035_0052_Tfe_2020-10-08_19-37-57.log"><code>STM_035_0052_Tfe_2020-10-08_19-37-57.log</code></a></td>
+997			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: STM_035_0052_Tfe_2020-10-08_19-37-57.log
+998			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td></td>
+999			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: 
+1000			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td>2020 10 08 19:49:07</td>
+1001			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: 2020 10 08 19:49:07
+1002			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td>PASSED</td>
+1003			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: PASSED
+1004			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td>SS026_SPEC_0016</td>
+1005			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: SS026_SPEC_0016
+1006			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td>Q_relEBmodeRVatSS_Param=0</td>
+1007			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: Q_relEBmodeRVatSS_Param=0
+1008			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td><a href="file:///SS026_SPEC_0016_Tfe_2020-10-08_19-41-25.log"><code>SS026_SPEC_0016_Tfe_2020-10-08_19-41-25.log</code></a></td>
+1009			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: SS026_SPEC_0016_Tfe_2020-10-08_19-41-25.log
+1010			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td></td>
+1011			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: 
+1012			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td>2020 10 08 19:50:36</td>
+1013			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: 2020 10 08 19:50:36
+1014			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td>FAILED</td>
+1015			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: FAILED
+1016			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td>SS026_SPEC_0016</td>
+1017			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: SS026_SPEC_0016
+1018			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td>Q_relEBmodeRVatSS_Param=1</td>
+1019			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: Q_relEBmodeRVatSS_Param=1
+1020			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td><a href="file:///SS026_SPEC_0016_Tfe_2020-10-08_19-49-09.log"><code>SS026_SPEC_0016_Tfe_2020-10-08_19-49-09.log</code></a></td>
+1021			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: SS026_SPEC_0016_Tfe_2020-10-08_19-49-09.log
+1022			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td></td>
+1023			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: 
+1024			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td>2020 10 08 19:54:53</td>
+1025			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: 2020 10 08 19:54:53
+1026			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td>PASSED</td>
+1027			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: PASSED
+1028			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td>Subset_076_6_3_3050300_15_RIU_v300</td>
+1029			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: Subset_076_6_3_3050300_15_RIU_v300
+1030			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td></td>
+1031			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: 
+1032			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td><a href="file:///Subset_076_6_3_3050300_15_RIU_Tfe_2020-10-08_19-50-37.log"><code>Subset_076_6_3_3050300_15_RIU_Tfe_2020-10-08_19-50-37.log</code></a></td>
+1033			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: Subset_076_6_3_3050300_15_RIU_Tfe_2020-10-08_19-50-37.log
+1034			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td></td>
+1035			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: 
+1036			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td>2020 10 08 19:55:34</td>
+1037			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: 2020 10 08 19:55:34
+1038			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td>FAILED</td>
+1039			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: FAILED
+1040			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td>AS_TI_0006</td>
+1041			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: AS_TI_0006
+1042			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td></td>
+1043			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: 
+1044			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td><a href="file:///AS_TI_0006_Tfe_2020-10-08_19-54-54.log"><code>AS_TI_0006_Tfe_2020-10-08_19-54-54.log</code></a></td>
+1045			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: AS_TI_0006_Tfe_2020-10-08_19-54-54.log
+1046			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td></td>
+1047			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: 
+1048			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td>2020 10 08 19:58:51</td>
+1049			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: 2020 10 08 19:58:51
+1050			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td>PASSED</td>
+1051			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: PASSED
+1052			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td>AS_TI_0088</td>
+1053			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: AS_TI_0088
+1054			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td></td>
+1055			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: 
+1056			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td><a href="file:///AS_TI_0088_Tfe_2020-10-08_19-55-36.log"><code>AS_TI_0088_Tfe_2020-10-08_19-55-36.log</code></a></td>
+1057			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: AS_TI_0088_Tfe_2020-10-08_19-55-36.log
+1058			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td></td>
+1059			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: 
+1060			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td>2020 10 08 21:13:00</td>
+1061			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: 2020 10 08 21:13:00
+1062			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td>PASSED</td>
+1063			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: PASSED
+1064			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td>AS_AS_0075</td>
+1065			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: AS_AS_0075
+1066			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td></td>
+1067			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: 
+1068			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td><a href="file:///AS_AS_0075_Tfe_2020-10-08_21-07-06.log"><code>AS_AS_0075_Tfe_2020-10-08_21-07-06.log</code></a></td>
+1069			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: AS_AS_0075_Tfe_2020-10-08_21-07-06.log
+1070			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td></td>
+1071			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: 
+1072			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td>2020 10 08 21:13:47</td>
+1073			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: 2020 10 08 21:13:47
+1074			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td>FAILED</td>
+1075			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: FAILED
+1076			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td>AS_AS_0087</td>
+1077			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: AS_AS_0087
+1078			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td></td>
+1079			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: 
+1080			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td><a href="file:///AS_AS_0087_Tfe_2020-10-08_21-13-01.log"><code>AS_AS_0087_Tfe_2020-10-08_21-13-01.log</code></a></td>
+1081			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: AS_AS_0087_Tfe_2020-10-08_21-13-01.log
+1082			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td></td>
+1083			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: 
+1084			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td>2020 10 08 21:16:58</td>
+1085			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: 2020 10 08 21:16:58
+1086			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td>PASSED</td>
+1087			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: PASSED
+1088			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td>AS_AS_0488</td>
+1089			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: AS_AS_0488
+1090			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td></td>
+1091			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: 
+1092			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td><a href="file:///AS_AS_0488_Tfe_2020-10-08_21-13-49.log"><code>AS_AS_0488_Tfe_2020-10-08_21-13-49.log</code></a></td>
+1093			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: AS_AS_0488_Tfe_2020-10-08_21-13-49.log
+1094			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td></td>
+1095			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: 
+1096			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td>2020 10 08 21:20:05</td>
+1097			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: 2020 10 08 21:20:05
+1098			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td>PASSED</td>
+1099			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: PASSED
+1100			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td>AS_AS_0487</td>
+1101			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: AS_AS_0487
+1102			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td></td>
+1103			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: 
+1104			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td><a href="file:///AS_AS_0487_Tfe_2020-10-08_21-16-59.log"><code>AS_AS_0487_Tfe_2020-10-08_21-16-59.log</code></a></td>
+1105			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: AS_AS_0487_Tfe_2020-10-08_21-16-59.log
+1106			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td></td>
+1107			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: 
+1108			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td>2020 10 09 10:43:09</td>
+1109			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: 2020 10 09 10:43:09
+1110			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td>PASSED</td>
+1111			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: PASSED
+1112			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td>AS_AS_0075</td>
+1113			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: AS_AS_0075
+1114			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td></td>
+1115			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: 
+1116			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td><a href="file:///AS_AS_0075_Tfe_2020-10-09_10-37-31.log"><code>AS_AS_0075_Tfe_2020-10-09_10-37-31.log</code></a></td>
+1117			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: AS_AS_0075_Tfe_2020-10-09_10-37-31.log
+1118			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td></td>
+1119			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: 
+1120			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td>2020 10 09 10:49:12</td>
+1121			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: 2020 10 09 10:49:12
+1122			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td>PASSED</td>
+1123			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: PASSED
+1124			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td>AS_AS_0087</td>
+1125			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: AS_AS_0087
+1126			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td></td>
+1127			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: 
+1128			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td><a href="file:///AS_AS_0087_Tfe_2020-10-09_10-43-11.log"><code>AS_AS_0087_Tfe_2020-10-09_10-43-11.log</code></a></td>
+1129			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: AS_AS_0087_Tfe_2020-10-09_10-43-11.log
+1130			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td></td>
+1131			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: 
+1132			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td>2020 10 09 10:52:33</td>
+1133			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: 2020 10 09 10:52:33
+1134			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td>PASSED</td>
+1135			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: PASSED
+1136			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td>AS_AS_0488</td>
+1137			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: AS_AS_0488
+1138			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td></td>
+1139			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: 
+1140			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td><a href="file:///AS_AS_0488_Tfe_2020-10-09_10-49-14.log"><code>AS_AS_0488_Tfe_2020-10-09_10-49-14.log</code></a></td>
+1141			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: AS_AS_0488_Tfe_2020-10-09_10-49-14.log
+1142			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td></td>
+1143			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: 
+1144			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td>2020 10 09 10:55:38</td>
+1145			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: 2020 10 09 10:55:38
+1146			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td>PASSED</td>
+1147			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: PASSED
+1148			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td>AS_AS_0487</td>
+1149			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: AS_AS_0487
+1150			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td></td>
+1151			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: 
+1152			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td><a href="file:///AS_AS_0487_Tfe_2020-10-09_10-52-35.log"><code>AS_AS_0487_Tfe_2020-10-09_10-52-35.log</code></a></td>
+1153			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: AS_AS_0487_Tfe_2020-10-09_10-52-35.log
+1154			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td></td>
+1155			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: 
+1156			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td>2020 10 09 11:14:50</td>
+1157			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: 2020 10 09 11:14:50
+1158			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td>PASSED</td>
+1159			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: PASSED
+1160			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td>SS026_BALISE_0121</td>
+1161			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: SS026_BALISE_0121
+1162			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td></td>
+1163			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: 
+1164			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td><a href="file:///SS026_BALISE_0121_Tfe_2020-10-09_10-55-40.log"><code>SS026_BALISE_0121_Tfe_2020-10-09_10-55-40.log</code></a></td>
+1165			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: SS026_BALISE_0121_Tfe_2020-10-09_10-55-40.log
+1166			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td></td>
+1167			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: 
+1168			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td>2020 10 09 11:21:06</td>
+1169			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: 2020 10 09 11:21:06
+1170			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td>PASSED</td>
+1171			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: PASSED
+1172			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td>SS026_BALISE_0123</td>
+1173			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: SS026_BALISE_0123
+1174			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td></td>
+1175			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: 
+1176			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td><a href="file:///SS026_BALISE_0123_Tfe_2020-10-09_11-14-51.log"><code>SS026_BALISE_0123_Tfe_2020-10-09_11-14-51.log</code></a></td>
+1177			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: SS026_BALISE_0123_Tfe_2020-10-09_11-14-51.log
+1178			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td></td>
+1179			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: 
+1180			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td>2020 10 09 11:21:59</td>
+1181			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: 2020 10 09 11:21:59
+1182			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td>FAILED</td>
+1183			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: FAILED
+1184			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td>SS026_BALISE_0148</td>
+1185			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: SS026_BALISE_0148
+1186			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td></td>
+1187			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: 
+1188			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td><a href="file:///SS026_BALISE_0148_Tfe_2020-10-09_11-21-07.log"><code>SS026_BALISE_0148_Tfe_2020-10-09_11-21-07.log</code></a></td>
+1189			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: SS026_BALISE_0148_Tfe_2020-10-09_11-21-07.log
+1190			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td></td>
+1191			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: 
+1192			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td>2020 10 09 11:22:39</td>
+1193			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: 2020 10 09 11:22:39
+1194			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td>FAILED</td>
+1195			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: FAILED
+1196			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td>SS026_MTEL_0106</td>
+1197			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: SS026_MTEL_0106
+1198			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td></td>
+1199			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: 
+1200			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td><a href="file:///SS026_MTEL_0106_Tfe_2020-10-09_11-22-00.log"><code>SS026_MTEL_0106_Tfe_2020-10-09_11-22-00.log</code></a></td>
+1201			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: SS026_MTEL_0106_Tfe_2020-10-09_11-22-00.log
+1202			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td></td>
+1203			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: 
+1204			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td>2020 10 09 11:29:04</td>
+1205			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: 2020 10 09 11:29:04
+1206			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td>PASSED</td>
+1207			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: PASSED
+1208			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td>SS026_MODE_0050</td>
+1209			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: SS026_MODE_0050
+1210			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td></td>
+1211			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: 
+1212			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td><a href="file:///SS026_MODE_0050_Tfe_2020-10-09_11-22-41.log"><code>SS026_MODE_0050_Tfe_2020-10-09_11-22-41.log</code></a></td>
+1213			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: SS026_MODE_0050_Tfe_2020-10-09_11-22-41.log
+1214			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td></td>
+1215			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: 
+1216			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td>2020 10 09 11:29:47</td>
+1217			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: 2020 10 09 11:29:47
+1218			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td>FAILED</td>
+1219			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: FAILED
+1220			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td>SS026_PROC_0016</td>
+1221			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: SS026_PROC_0016
+1222			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td></td>
+1223			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: 
+1224			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td><a href="file:///SS026_PROC_0016_Tfe_2020-10-09_11-29-05.log"><code>SS026_PROC_0016_Tfe_2020-10-09_11-29-05.log</code></a></td>
+1225			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: SS026_PROC_0016_Tfe_2020-10-09_11-29-05.log
+1226			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td></td>
+1227			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: 
+1228			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td>2020 10 09 11:34:10</td>
+1229			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: 2020 10 09 11:34:10
+1230			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td>PASSED</td>
+1231			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: PASSED
+1232			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td>SS026_PROC_0051</td>
+1233			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: SS026_PROC_0051
+1234			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td></td>
+1235			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: 
+1236			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td><a href="file:///SS026_PROC_0051_Tfe_2020-10-09_11-29-48.log"><code>SS026_PROC_0051_Tfe_2020-10-09_11-29-48.log</code></a></td>
+1237			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: SS026_PROC_0051_Tfe_2020-10-09_11-29-48.log
+1238			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td></td>
+1239			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: 
+1240			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td>2020 10 09 11:34:53</td>
+1241			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: 2020 10 09 11:34:53
+1242			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td>FAILED</td>
+1243			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: FAILED
+1244			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td>STM_035_0016</td>
+1245			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: STM_035_0016
+1246			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td></td>
+1247			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: 
+1248			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td><a href="file:///STM_035_0016_Tfe_2020-10-09_11-34-12.log"><code>STM_035_0016_Tfe_2020-10-09_11-34-12.log</code></a></td>
+1249			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: STM_035_0016_Tfe_2020-10-09_11-34-12.log
+1250			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td></td>
+1251			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: 
+1252			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td>2020 10 09 11:35:36</td>
+1253			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: 2020 10 09 11:35:36
+1254			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td>FAILED</td>
+1255			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: FAILED
+1256			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td>STM_035_0052</td>
+1257			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: STM_035_0052
+1258			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td></td>
+1259			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: 
+1260			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td><a href="file:///STM_035_0052_Tfe_2020-10-09_11-34-55.log"><code>STM_035_0052_Tfe_2020-10-09_11-34-55.log</code></a></td>
+1261			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: STM_035_0052_Tfe_2020-10-09_11-34-55.log
+1262			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td></td>
+1263			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: 
+1264			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td>2020 10 09 11:36:50</td>
+1265			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: 2020 10 09 11:36:50
+1266			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td>FAILED</td>
+1267			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: FAILED
+1268			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td>SS026_SPEC_0016</td>
+1269			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: SS026_SPEC_0016
+1270			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td>Q_relEBmodeRVatSS_Param=0</td>
+1271			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: Q_relEBmodeRVatSS_Param=0
+1272			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td><a href="file:///SS026_SPEC_0016_Tfe_2020-10-09_11-35-37.log"><code>SS026_SPEC_0016_Tfe_2020-10-09_11-35-37.log</code></a></td>
+1273			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: SS026_SPEC_0016_Tfe_2020-10-09_11-35-37.log
+1274			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td></td>
+1275			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: 
+1276			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td>2020 10 09 11:37:44</td>
+1277			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: 2020 10 09 11:37:44
+1278			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td>FAILED</td>
+1279			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: FAILED
+1280			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td>SS026_SPEC_0016</td>
+1281			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: SS026_SPEC_0016
+1282			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td>Q_relEBmodeRVatSS_Param=1</td>
+1283			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: Q_relEBmodeRVatSS_Param=1
+1284			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td><a href="file:///SS026_SPEC_0016_Tfe_2020-10-09_11-36-52.log"><code>SS026_SPEC_0016_Tfe_2020-10-09_11-36-52.log</code></a></td>
+1285			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: SS026_SPEC_0016_Tfe_2020-10-09_11-36-52.log
+1286			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td></td>
+1287			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: 
+1288			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td>2020 10 09 11:42:04</td>
+1289			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: 2020 10 09 11:42:04
+1290			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td>PASSED</td>
+1291			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: PASSED
+1292			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td>Subset_076_6_3_3050300_15_RIU_v300</td>
+1293			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: Subset_076_6_3_3050300_15_RIU_v300
+1294			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td></td>
+1295			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: 
+1296			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td><a href="file:///Subset_076_6_3_3050300_15_RIU_Tfe_2020-10-09_11-37-46.log"><code>Subset_076_6_3_3050300_15_RIU_Tfe_2020-10-09_11-37-46.log</code></a></td>
+1297			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: Subset_076_6_3_3050300_15_RIU_Tfe_2020-10-09_11-37-46.log
+1298			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td></td>
+1299			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: 
+1300			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td>2020 10 09 11:45:11</td>
+1301			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: 2020 10 09 11:45:11
+1302			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td>PASSED</td>
+1303			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: PASSED
+1304			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td>AS_TI_0006</td>
+1305			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: AS_TI_0006
+1306			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td></td>
+1307			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: 
+1308			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td><a href="file:///AS_TI_0006_Tfe_2020-10-09_11-42-06.log"><code>AS_TI_0006_Tfe_2020-10-09_11-42-06.log</code></a></td>
+1309			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: AS_TI_0006_Tfe_2020-10-09_11-42-06.log
+1310			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td></td>
+1311			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: 
+1312			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td>2020 10 09 11:45:54</td>
+1313			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: 2020 10 09 11:45:54
+1314			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td>FAILED</td>
+1315			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: FAILED
+1316			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td>AS_TI_0088</td>
+1317			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: AS_TI_0088
+1318			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td></td>
+1319			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: 
+1320			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td><a href="file:///AS_TI_0088_Tfe_2020-10-09_11-45-13.log"><code>AS_TI_0088_Tfe_2020-10-09_11-45-13.log</code></a></td>
+1321			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: AS_TI_0088_Tfe_2020-10-09_11-45-13.log
+1322			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td></td>
+1323			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: 
+1324			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td>2020 10 09 14:47:30</td>
+1325			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: 2020 10 09 14:47:30
+1326			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td>PASSED</td>
+1327			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: PASSED
+1328			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td>AS_AS_0075</td>
+1329			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: AS_AS_0075
+1330			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td></td>
+1331			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: 
+1332			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td><a href="file:///AS_AS_0075_Tfe_2020-10-09_14-41-54.log"><code>AS_AS_0075_Tfe_2020-10-09_14-41-54.log</code></a></td>
+1333			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: AS_AS_0075_Tfe_2020-10-09_14-41-54.log
+1334			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td></td>
+1335			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: 
+1336			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td>2020 10 09 14:53:45</td>
+1337			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: 2020 10 09 14:53:45
+1338			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td>PASSED</td>
+1339			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: PASSED
+1340			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td>AS_AS_0087</td>
+1341			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: AS_AS_0087
+1342			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td></td>
+1343			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: 
+1344			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td><a href="file:///AS_AS_0087_Tfe_2020-10-09_14-47-32.log"><code>AS_AS_0087_Tfe_2020-10-09_14-47-32.log</code></a></td>
+1345			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: AS_AS_0087_Tfe_2020-10-09_14-47-32.log
+1346			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td></td>
+1347			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: 
+1348			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td>2020 10 09 14:56:43</td>
+1349			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: 2020 10 09 14:56:43
+1350			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td>PASSED</td>
+1351			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: PASSED
+1352			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td>AS_AS_0488</td>
+1353			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: AS_AS_0488
+1354			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td></td>
+1355			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: 
+1356			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td><a href="file:///AS_AS_0488_Tfe_2020-10-09_14-53-46.log"><code>AS_AS_0488_Tfe_2020-10-09_14-53-46.log</code></a></td>
+1357			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: AS_AS_0488_Tfe_2020-10-09_14-53-46.log
+1358			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td></td>
+1359			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: 
+1360			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td>2020 10 09 14:59:33</td>
+1361			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: 2020 10 09 14:59:33
+1362			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td>PASSED</td>
+1363			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: PASSED
+1364			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td>AS_AS_0487</td>
+1365			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: AS_AS_0487
+1366			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td></td>
+1367			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: 
+1368			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td><a href="file:///AS_AS_0487_Tfe_2020-10-09_14-56-44.log"><code>AS_AS_0487_Tfe_2020-10-09_14-56-44.log</code></a></td>
+1369			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: AS_AS_0487_Tfe_2020-10-09_14-56-44.log
+1370			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td></td>
+1371			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: 
+1372			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td>2020 10 09 15:18:19</td>
+1373			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: 2020 10 09 15:18:19
+1374			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td>PASSED</td>
+1375			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: PASSED
+1376			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td>SS026_BALISE_0121</td>
+1377			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: SS026_BALISE_0121
+1378			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td></td>
+1379			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: 
+1380			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td><a href="file:///SS026_BALISE_0121_Tfe_2020-10-09_14-59-34.log"><code>SS026_BALISE_0121_Tfe_2020-10-09_14-59-34.log</code></a></td>
+1381			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: SS026_BALISE_0121_Tfe_2020-10-09_14-59-34.log
+1382			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td></td>
+1383			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: 
+1384			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td>2020 10 09 15:24:38</td>
+1385			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: 2020 10 09 15:24:38
+1386			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td>PASSED</td>
+1387			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: PASSED
+1388			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td>SS026_BALISE_0123</td>
+1389			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: SS026_BALISE_0123
+1390			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td></td>
+1391			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: 
+1392			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td><a href="file:///SS026_BALISE_0123_Tfe_2020-10-09_15-18-21.log"><code>SS026_BALISE_0123_Tfe_2020-10-09_15-18-21.log</code></a></td>
+1393			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: SS026_BALISE_0123_Tfe_2020-10-09_15-18-21.log
+1394			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td></td>
+1395			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: 
+1396			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td>2020 10 09 15:32:53</td>
+1397			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: 2020 10 09 15:32:53
+1398			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td>PASSED</td>
+1399			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: PASSED
+1400			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td>SS026_BALISE_0148</td>
+1401			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: SS026_BALISE_0148
+1402			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td></td>
+1403			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: 
+1404			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td><a href="file:///SS026_BALISE_0148_Tfe_2020-10-09_15-24-39.log"><code>SS026_BALISE_0148_Tfe_2020-10-09_15-24-39.log</code></a></td>
+1405			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: SS026_BALISE_0148_Tfe_2020-10-09_15-24-39.log
+1406			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td></td>
+1407			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: 
+1408			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td>2020 10 09 15:37:40</td>
+1409			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: 2020 10 09 15:37:40
+1410			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td>PASSED</td>
+1411			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: PASSED
+1412			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td>SS026_MTEL_0106</td>
+1413			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: SS026_MTEL_0106
+1414			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td></td>
+1415			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: 
+1416			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td><a href="file:///SS026_MTEL_0106_Tfe_2020-10-09_15-32-54.log"><code>SS026_MTEL_0106_Tfe_2020-10-09_15-32-54.log</code></a></td>
+1417			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: SS026_MTEL_0106_Tfe_2020-10-09_15-32-54.log
+1418			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td></td>
+1419			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: 
+1420			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td>2020 10 09 15:44:16</td>
+1421			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: 2020 10 09 15:44:16
+1422			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td>PASSED</td>
+1423			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: PASSED
+1424			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td>SS026_MODE_0050</td>
+1425			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: SS026_MODE_0050
+1426			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td></td>
+1427			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: 
+1428			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td><a href="file:///SS026_MODE_0050_Tfe_2020-10-09_15-37-42.log"><code>SS026_MODE_0050_Tfe_2020-10-09_15-37-42.log</code></a></td>
+1429			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: SS026_MODE_0050_Tfe_2020-10-09_15-37-42.log
+1430			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td></td>
+1431			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: 
+1432			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td>2020 10 09 15:53:59</td>
+1433			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: 2020 10 09 15:53:59
+1434			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td>PASSED</td>
+1435			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: PASSED
+1436			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td>SS026_PROC_0016</td>
+1437			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: SS026_PROC_0016
+1438			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td></td>
+1439			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: 
+1440			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td><a href="file:///SS026_PROC_0016_Tfe_2020-10-09_15-44-18.log"><code>SS026_PROC_0016_Tfe_2020-10-09_15-44-18.log</code></a></td>
+1441			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: SS026_PROC_0016_Tfe_2020-10-09_15-44-18.log
+1442			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td></td>
+1443			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: 
+1444			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td>2020 10 09 15:58:02</td>
+1445			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: 2020 10 09 15:58:02
+1446			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td>FAILED</td>
+1447			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: FAILED
+1448			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td>SS026_PROC_0051</td>
+1449			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: SS026_PROC_0051
+1450			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td></td>
+1451			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: 
+1452			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td><a href="file:///SS026_PROC_0051_Tfe_2020-10-09_15-54-01.log"><code>SS026_PROC_0051_Tfe_2020-10-09_15-54-01.log</code></a></td>
+1453			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: SS026_PROC_0051_Tfe_2020-10-09_15-54-01.log
+1454			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td></td>
+1455			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: 
+1456			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td>2020 10 09 16:01:14</td>
+1457			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: 2020 10 09 16:01:14
+1458			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td>PASSED</td>
+1459			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: PASSED
+1460			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td>STM_035_0016</td>
+1461			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: STM_035_0016
+1462			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td></td>
+1463			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: 
+1464			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td><a href="file:///STM_035_0016_Tfe_2020-10-09_15-58-04.log"><code>STM_035_0016_Tfe_2020-10-09_15-58-04.log</code></a></td>
+1465			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: STM_035_0016_Tfe_2020-10-09_15-58-04.log
+1466			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td></td>
+1467			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: 
+1468			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td>2020 10 09 16:04:55</td>
+1469			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: 2020 10 09 16:04:55
+1470			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td>PASSED</td>
+1471			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: PASSED
+1472			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td>STM_035_0052</td>
+1473			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: STM_035_0052
+1474			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td></td>
+1475			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: 
+1476			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td><a href="file:///STM_035_0052_Tfe_2020-10-09_16-01-16.log"><code>STM_035_0052_Tfe_2020-10-09_16-01-16.log</code></a></td>
+1477			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: STM_035_0052_Tfe_2020-10-09_16-01-16.log
+1478			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td></td>
+1479			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: 
+1480			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td>2020 10 09 16:12:31</td>
+1481			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: 2020 10 09 16:12:31
+1482			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td>PASSED</td>
+1483			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: PASSED
+1484			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td>SS026_SPEC_0016</td>
+1485			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: SS026_SPEC_0016
+1486			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td>Q_relEBmodeRVatSS_Param=0</td>
+1487			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: Q_relEBmodeRVatSS_Param=0
+1488			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td><a href="file:///SS026_SPEC_0016_Tfe_2020-10-09_16-04-57.log"><code>SS026_SPEC_0016_Tfe_2020-10-09_16-04-57.log</code></a></td>
+1489			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: SS026_SPEC_0016_Tfe_2020-10-09_16-04-57.log
+1490			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td></td>
+1491			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: 
+1492			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td>2020 10 09 16:20:30</td>
+1493			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: 2020 10 09 16:20:30
+1494			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td>PASSED</td>
+1495			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: PASSED
+1496			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td>SS026_SPEC_0016</td>
+1497			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: SS026_SPEC_0016
+1498			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td>Q_relEBmodeRVatSS_Param=1</td>
+1499			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: Q_relEBmodeRVatSS_Param=1
+1500			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td><a href="file:///SS026_SPEC_0016_Tfe_2020-10-09_16-12-33.log"><code>SS026_SPEC_0016_Tfe_2020-10-09_16-12-33.log</code></a></td>
+1501			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: SS026_SPEC_0016_Tfe_2020-10-09_16-12-33.log
+1502			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td></td>
+1503			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: 
+1504			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td>2020 10 09 16:24:45</td>
+1505			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: 2020 10 09 16:24:45
+1506			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td>PASSED</td>
+1507			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: PASSED
+1508			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td>Subset_076_6_3_3050300_15_RIU_v300</td>
+1509			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: Subset_076_6_3_3050300_15_RIU_v300
+1510			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td></td>
+1511			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: 
+1512			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td><a href="file:///Subset_076_6_3_3050300_15_RIU_Tfe_2020-10-09_16-20-32.log"><code>Subset_076_6_3_3050300_15_RIU_Tfe_2020-10-09_16-20-32.log</code></a></td>
+1513			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: Subset_076_6_3_3050300_15_RIU_Tfe_2020-10-09_16-20-32.log
+1514			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td></td>
+1515			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: 
+1516			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td>2020 10 09 16:27:45</td>
+1517			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: 2020 10 09 16:27:45
+1518			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td>PASSED</td>
+1519			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: PASSED
+1520			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td>AS_TI_0006</td>
+1521			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: AS_TI_0006
+1522			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td></td>
+1523			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: 
+1524			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td><a href="file:///AS_TI_0006_Tfe_2020-10-09_16-24-46.log"><code>AS_TI_0006_Tfe_2020-10-09_16-24-46.log</code></a></td>
+1525			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: AS_TI_0006_Tfe_2020-10-09_16-24-46.log
+1526			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td></td>
+1527			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: 
+1528			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td>2020 10 09 16:31:03</td>
+1529			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: 2020 10 09 16:31:03
+1530			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td>PASSED</td>
+1531			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: PASSED
+1532			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td>AS_TI_0088</td>
+1533			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: AS_TI_0088
+1534			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td></td>
+1535			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: 
+1536			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td><a href="file:///AS_TI_0088_Tfe_2020-10-09_16-27-46.log"><code>AS_TI_0088_Tfe_2020-10-09_16-27-46.log</code></a></td>
+1537			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: AS_TI_0088_Tfe_2020-10-09_16-27-46.log
+1538			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td></td>
+1539			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: 
+1540			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td>2020 10 14 15:10:23</td>
+1541			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: 2020 10 14 15:10:23
+1542			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td>PASSED</td>
+1543			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: PASSED
+1544			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td>AS_AS_0075</td>
+1545			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: AS_AS_0075
+1546			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td></td>
+1547			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: 
+1548			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td><a href="file:///AS_AS_0075_Tfe_2020-10-14_15-05-02.log"><code>AS_AS_0075_Tfe_2020-10-14_15-05-02.log</code></a></td>
+1549			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: AS_AS_0075_Tfe_2020-10-14_15-05-02.log
+1550			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td></td>
+1551			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: 
+1552			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td>2020 10 14 15:24:17</td>
+1553			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: 2020 10 14 15:24:17
+1554			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td>PASSED</td>
+1555			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: PASSED
+1556			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td>AS_AS_0087</td>
+1557			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: AS_AS_0087
+1558			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td></td>
+1559			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: 
+1560			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td><a href="file:///AS_AS_0087_Tfe_2020-10-14_15-18-33.log"><code>AS_AS_0087_Tfe_2020-10-14_15-18-33.log</code></a></td>
+1561			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: AS_AS_0087_Tfe_2020-10-14_15-18-33.log
+1562			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td></td>
+1563			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: 
+1564			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td>2020 10 14 16:33:00</td>
+1565			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: 2020 10 14 16:33:00
+1566			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td>PASSED</td>
+1567			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: PASSED
+1568			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td>AS_AS_0488</td>
+1569			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: AS_AS_0488
+1570			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td></td>
+1571			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: 
+1572			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td><a href="file:///AS_AS_0488_Tfe_2020-10-14_16-30-00.log"><code>AS_AS_0488_Tfe_2020-10-14_16-30-00.log</code></a></td>
+1573			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: AS_AS_0488_Tfe_2020-10-14_16-30-00.log
+1574			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td></td>
+1575			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: 
+1576			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td>2020 10 14 16:35:45</td>
+1577			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: 2020 10 14 16:35:45
+1578			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td>PASSED</td>
+1579			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: PASSED
+1580			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td>AS_AS_0487</td>
+1581			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: AS_AS_0487
+1582			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td></td>
+1583			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: 
+1584			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td><a href="file:///AS_AS_0487_Tfe_2020-10-14_16-33-01.log"><code>AS_AS_0487_Tfe_2020-10-14_16-33-01.log</code></a></td>
+1585			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: AS_AS_0487_Tfe_2020-10-14_16-33-01.log
+1586			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td></td>
+1587			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: 
+1588			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td>2020 10 14 16:54:37</td>
+1589			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: 2020 10 14 16:54:37
+1590			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td>PASSED</td>
+1591			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: PASSED
+1592			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td>SS026_BALISE_0121</td>
+1593			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: SS026_BALISE_0121
+1594			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td></td>
+1595			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: 
+1596			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td><a href="file:///SS026_BALISE_0121_Tfe_2020-10-14_16-35-47.log"><code>SS026_BALISE_0121_Tfe_2020-10-14_16-35-47.log</code></a></td>
+1597			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: SS026_BALISE_0121_Tfe_2020-10-14_16-35-47.log
+1598			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td></td>
+1599			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: 
+1600			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td>2020 10 14 17:00:46</td>
+1601			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: 2020 10 14 17:00:46
+1602			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td>PASSED</td>
+1603			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: PASSED
+1604			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td>SS026_BALISE_0123</td>
+1605			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: SS026_BALISE_0123
+1606			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td></td>
+1607			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: 
+1608			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td><a href="file:///SS026_BALISE_0123_Tfe_2020-10-14_16-54-39.log"><code>SS026_BALISE_0123_Tfe_2020-10-14_16-54-39.log</code></a></td>
+1609			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: SS026_BALISE_0123_Tfe_2020-10-14_16-54-39.log
+1610			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td></td>
+1611			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: 
+1612			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td>2020 10 14 17:05:38</td>
+1613			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: 2020 10 14 17:05:38
+1614			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td>FAILED</td>
+1615			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: FAILED
+1616			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td>SS026_BALISE_0148</td>
+1617			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: SS026_BALISE_0148
+1618			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td></td>
+1619			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: 
+1620			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td><a href="file:///SS026_BALISE_0148_Tfe_2020-10-14_17-00-48.log"><code>SS026_BALISE_0148_Tfe_2020-10-14_17-00-48.log</code></a></td>
+1621			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: SS026_BALISE_0148_Tfe_2020-10-14_17-00-48.log
+1622			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td> =====> 265:             AutoVerify = Track.EuroRadio.ExpectPacket(new List<Dictionary<string, List<int>>> { </td>
+1623			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted:  =====> 265:             AutoVerify = Track.EuroRadio.ExpectPacket(new List<Dictionary<string, List<int>>> { 
+1624			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td>2020 10 14 17:10:08</td>
+1625			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: 2020 10 14 17:10:08
+1626			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td>PASSED</td>
+1627			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: PASSED
+1628			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td>SS026_MTEL_0106</td>
+1629			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: SS026_MTEL_0106
+1630			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td></td>
+1631			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: 
+1632			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td><a href="file:///SS026_MTEL_0106_Tfe_2020-10-14_17-05-41.log"><code>SS026_MTEL_0106_Tfe_2020-10-14_17-05-41.log</code></a></td>
+1633			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: SS026_MTEL_0106_Tfe_2020-10-14_17-05-41.log
+1634			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td></td>
+1635			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: 
+1636			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td>2020 10 14 17:21:35</td>
+1637			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: 2020 10 14 17:21:35
+1638			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td>PASSED</td>
+1639			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: PASSED
+1640			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td>SS026_BALISE_0148</td>
+1641			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: SS026_BALISE_0148
+1642			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td></td>
+1643			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: 
+1644			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td><a href="file:///SS026_BALISE_0148_Tfe_2020-10-14_17-13-38.log"><code>SS026_BALISE_0148_Tfe_2020-10-14_17-13-38.log</code></a></td>
+1645			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: SS026_BALISE_0148_Tfe_2020-10-14_17-13-38.log
+1646			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td></td>
+1647			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: 
+1648			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td>2020 10 14 18:11:23</td>
+1649			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: 2020 10 14 18:11:23
+1650			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td>PASSED</td>
+1651			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: PASSED
+1652			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td>SS026_MODE_0050</td>
+1653			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: SS026_MODE_0050
+1654			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td></td>
+1655			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: 
+1656			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td><a href="file:///SS026_MODE_0050_Tfe_2020-10-14_18-05-06.log"><code>SS026_MODE_0050_Tfe_2020-10-14_18-05-06.log</code></a></td>
+1657			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: SS026_MODE_0050_Tfe_2020-10-14_18-05-06.log
+1658			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td></td>
+1659			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: 
+1660			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td>2020 10 14 18:20:53</td>
+1661			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: 2020 10 14 18:20:53
+1662			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td>PASSED</td>
+1663			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: PASSED
+1664			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td>SS026_PROC_0016</td>
+1665			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: SS026_PROC_0016
+1666			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td></td>
+1667			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: 
+1668			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td><a href="file:///SS026_PROC_0016_Tfe_2020-10-14_18-11-25.log"><code>SS026_PROC_0016_Tfe_2020-10-14_18-11-25.log</code></a></td>
+1669			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: SS026_PROC_0016_Tfe_2020-10-14_18-11-25.log
+1670			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td></td>
+1671			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: 
+1672			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td>2020 10 14 18:25:00</td>
+1673			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: 2020 10 14 18:25:00
+1674			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td>PASSED</td>
+1675			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: PASSED
+1676			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td>SS026_PROC_0051</td>
+1677			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: SS026_PROC_0051
+1678			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td></td>
+1679			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: 
+1680			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td><a href="file:///SS026_PROC_0051_Tfe_2020-10-14_18-20-55.log"><code>SS026_PROC_0051_Tfe_2020-10-14_18-20-55.log</code></a></td>
+1681			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: SS026_PROC_0051_Tfe_2020-10-14_18-20-55.log
+1682			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td></td>
+1683			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: 
+1684			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td>2020 10 14 18:27:53</td>
+1685			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: 2020 10 14 18:27:53
+1686			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td>PASSED</td>
+1687			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: PASSED
+1688			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td>STM_035_0016</td>
+1689			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: STM_035_0016
+1690			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td></td>
+1691			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: 
+1692			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td><a href="file:///STM_035_0016_Tfe_2020-10-14_18-25-02.log"><code>STM_035_0016_Tfe_2020-10-14_18-25-02.log</code></a></td>
+1693			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: STM_035_0016_Tfe_2020-10-14_18-25-02.log
+1694			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td></td>
+1695			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: 
+1696			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td>2020 10 14 18:31:14</td>
+1697			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: 2020 10 14 18:31:14
+1698			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td>PASSED</td>
+1699			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: PASSED
+1700			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td>STM_035_0052</td>
+1701			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: STM_035_0052
+1702			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td></td>
+1703			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: 
+1704			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td><a href="file:///STM_035_0052_Tfe_2020-10-14_18-27-55.log"><code>STM_035_0052_Tfe_2020-10-14_18-27-55.log</code></a></td>
+1705			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: STM_035_0052_Tfe_2020-10-14_18-27-55.log
+1706			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td></td>
+1707			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: 
+1708			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td>2020 10 14 18:38:48</td>
+1709			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: 2020 10 14 18:38:48
+1710			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td>PASSED</td>
+1711			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: PASSED
+1712			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td>SS026_SPEC_0016</td>
+1713			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: SS026_SPEC_0016
+1714			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td>Q_relEBmodeRVatSS_Param=0</td>
+1715			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: Q_relEBmodeRVatSS_Param=0
+1716			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td><a href="file:///SS026_SPEC_0016_Tfe_2020-10-14_18-31-16.log"><code>SS026_SPEC_0016_Tfe_2020-10-14_18-31-16.log</code></a></td>
+1717			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: SS026_SPEC_0016_Tfe_2020-10-14_18-31-16.log
+1718			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td></td>
+1719			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: 
+1720			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td>2020 10 14 18:46:32</td>
+1721			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: 2020 10 14 18:46:32
+1722			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td>PASSED</td>
+1723			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: PASSED
+1724			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td>SS026_SPEC_0016</td>
+1725			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: SS026_SPEC_0016
+1726			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td>Q_relEBmodeRVatSS_Param=1</td>
+1727			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: Q_relEBmodeRVatSS_Param=1
+1728			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td><a href="file:///SS026_SPEC_0016_Tfe_2020-10-14_18-38-49.log"><code>SS026_SPEC_0016_Tfe_2020-10-14_18-38-49.log</code></a></td>
+1729			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: SS026_SPEC_0016_Tfe_2020-10-14_18-38-49.log
+1730			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td></td>
+1731			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: 
+1732			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td>2020 10 14 18:50:34</td>
+1733			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: 2020 10 14 18:50:34
+1734			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td>PASSED</td>
+1735			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: PASSED
+1736			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td>Subset_076_6_3_3050300_15_RIU_v300</td>
+1737			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: Subset_076_6_3_3050300_15_RIU_v300
+1738			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td></td>
+1739			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: 
+1740			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td><a href="file:///Subset_076_6_3_3050300_15_RIU_Tfe_2020-10-14_18-46-34.log"><code>Subset_076_6_3_3050300_15_RIU_Tfe_2020-10-14_18-46-34.log</code></a></td>
+1741			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: Subset_076_6_3_3050300_15_RIU_Tfe_2020-10-14_18-46-34.log
+1742			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td></td>
+1743			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: 
+1744			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td>2020 10 21 16:54:51</td>
+1745			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: 2020 10 21 16:54:51
+1746			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td>FAILED</td>
+1747			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: FAILED
+1748			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td>Subset_076_6_3_3070300_02_v300</td>
+1749			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: Subset_076_6_3_3070300_02_v300
+1750			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td></td>
+1751			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: 
+1752			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td><a href="file:///Subset_076_6_3_3070300_02_Tfe_2020-10-21_16-49-58.log"><code>Subset_076_6_3_3070300_02_Tfe_2020-10-21_16-49-58.log</code></a></td>
+1753			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: Subset_076_6_3_3070300_02_Tfe_2020-10-21_16-49-58.log
+1754			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td> =====>1056:             AutoVerify = Vehicle.DMI1.ExpectTextMessage(701, MmiQTextCriteria.Informative, 30 * 1000);</td>
+1755			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted:  =====>1056:             AutoVerify = Vehicle.DMI1.ExpectTextMessage(701, MmiQTextCriteria.Informative, 30 * 1000);
+1756			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td>2020 10 21 17:09:16</td>
+1757			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: 2020 10 21 17:09:16
+1758			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td>FAILED</td>
+1759			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: FAILED
+1760			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td>Subset_076_6_3_4080402_01_v300</td>
+1761			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: Subset_076_6_3_4080402_01_v300
+1762			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td></td>
+1763			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: 
+1764			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td><a href="file:///Subset_076_6_3_4080402_01_Tfe_2020-10-21_16-59-43.log"><code>Subset_076_6_3_4080402_01_Tfe_2020-10-21_16-59-43.log</code></a></td>
+1765			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: Subset_076_6_3_4080402_01_Tfe_2020-10-21_16-59-43.log
+1766			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td> =====>1872:             AutoVerify = TestControl.Movement.Position.CheckGreaterEqual(2630, 50 * 1000);</td>
+1767			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted:  =====>1872:             AutoVerify = TestControl.Movement.Position.CheckGreaterEqual(2630, 50 * 1000);
+1768			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td>2020 10 21 17:34:15</td>
+1769			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: 2020 10 21 17:34:15
+1770			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td>FAILED</td>
+1771			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: FAILED
+1772			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td>Subset_076_6_3_4100103_17_v300</td>
+1773			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: Subset_076_6_3_4100103_17_v300
+1774			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td></td>
+1775			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: 
+1776			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td><a href="file:///Subset_076_6_3_4100103_17_Tfe_2020-10-21_17-26-25.log"><code>Subset_076_6_3_4100103_17_Tfe_2020-10-21_17-26-25.log</code></a></td>
+1777			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: Subset_076_6_3_4100103_17_Tfe_2020-10-21_17-26-25.log
+1778			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td></td>
+1779			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: 
+1780			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td>2020 10 21 18:04:27</td>
+1781			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: 2020 10 21 18:04:27
+1782			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td>PASSED</td>
+1783			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: PASSED
+1784			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td>Subset_076_6_3_4100103_17_v300</td>
+1785			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: Subset_076_6_3_4100103_17_v300
+1786			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td></td>
+1787			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: 
+1788			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td><a href="file:///Subset_076_6_3_4100103_17_Tfe_2020-10-21_17-46-19.log"><code>Subset_076_6_3_4100103_17_Tfe_2020-10-21_17-46-19.log</code></a></td>
+1789			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: Subset_076_6_3_4100103_17_Tfe_2020-10-21_17-46-19.log
+1790			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td></td>
+1791			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: 
+1792			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td>2020 10 14 09:46:44</td>
+1793			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: 2020 10 14 09:46:44
+1794			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td>ABORTED</td>
+1795			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: ABORTED
+1796			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td>AS_AS_0075</td>
+1797			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: AS_AS_0075
+1798			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td></td>
+1799			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: 
+1800			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td><a href="file:///AS_AS_0075_Tfe_2020-10-14_09-41-29.log"><code>AS_AS_0075_Tfe_2020-10-14_09-41-29.log</code></a></td>
+1801			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: AS_AS_0075_Tfe_2020-10-14_09-41-29.log
+1802			Wed Nov 04 20:21:43 2020		157				Checks()				Tags parsed:    <td></td>
+1803			Wed Nov 04 20:21:43 2020		167				Checks()				Extracted: 
+1804			Wed Nov 04 20:21:43 2020		115				intial()				Parsing: Ended
+1805			Wed Nov 04 20:21:43 2020		84				constr()				Calling: Splits()
+1806			Wed Nov 04 20:21:43 2020		177				Splits()				Creating Passed.csv
+1807			Wed Nov 04 20:21:43 2020		181				Splits()				Creating failed.csv
+1808			Wed Nov 04 20:21:43 2020		185				Splits()				Creating others.csv
+1809			Wed Nov 04 20:21:43 2020		196				Splits()				Sorting by Date(desc)
+1810			Wed Nov 04 20:21:43 2020		208				Splits()				Checking PASSED, FAILED, ABORT status
+1811			Wed Nov 04 20:21:43 2020		261				Splits()				PASSED Data Entry Complete
+1812			Wed Nov 04 20:21:43 2020		265				Splits()				Closing Passed.csv
+1813			Wed Nov 04 20:21:43 2020		267				Splits()				FAILED Data Entry Complete
+1814			Wed Nov 04 20:21:43 2020		271				Splits()				Closing failed.csv
+1815			Wed Nov 04 20:21:43 2020		273				Splits()				ABORT Data Entry Complete
+1816			Wed Nov 04 20:21:43 2020		277				Splits()				Closing Others.csv
