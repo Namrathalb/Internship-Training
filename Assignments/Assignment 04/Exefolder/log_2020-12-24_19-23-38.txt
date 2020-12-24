@@ -1,0 +1,57 @@
+Index		TIMESTAMP				Linenumber		Function Name					User value
+1		Wed Dec 23 19:31:21 2020		24			MainWindow()					Starting Application
+2		Wed Dec 23 19:31:21 2020		46			Search_clicked()				Search-HashTag: #covid
+3		Wed Dec 23 19:31:21 2020		50			Search_clicked()				News Source: New Inian Express
+4		Wed Dec 23 19:31:21 2020		78			Search_clicked()				News URL: https://www.newindianexpress.com/topic?term=covid&request=MIN&type=title&row_type=A
+5		Wed Dec 23 19:31:21 2020		80			Search_clicked()				WebResults : News articles List
+6		Wed Dec 23 19:31:21 2020		86			navigate(QUrl url)				Capturing Article URL: https://www.newindianexpress.com/world/2020/dec/24/after-uk-strain-now-another-covid-19-variantemerges-in-nigeria-as-authorities-launch-probe-2240687.html
+7		Wed Dec 23 19:31:21 2020		12			MainWindow()					Opening New Dialog
+8		Wed Dec 23 19:31:21 2020		28			read(QString link)				Loading: Full Articlehttps://www.newindianexpress.com/world/2020/dec/24/after-uk-strain-now-another-covid-19-variantemerges-in-nigeria-as-authorities-launch-probe-2240687.html
+9		Wed Dec 23 19:31:21 2020		104			navigate(QUrl url)				Creating New Dialog Object to Read News
+10		Wed Dec 23 19:31:21 2020		86			navigate(QUrl url)				Capturing Article URL: https://www.newindianexpress.com/nation/2020/dec/24/gujarat-covid-19-norms-flouted-at-music-event-threecops-suspended-2240664.html
+11		Wed Dec 23 19:31:21 2020		12			MainWindow()					Opening New Dialog
+12		Wed Dec 23 19:31:21 2020		28			read(QString link)				Loading: Full Articlehttps://www.newindianexpress.com/nation/2020/dec/24/gujarat-covid-19-norms-flouted-at-music-event-threecops-suspended-2240664.html
+13		Wed Dec 23 19:31:21 2020		104			navigate(QUrl url)				Creating New Dialog Object to Read News
+14		Wed Dec 23 19:31:21 2020		46			Search_clicked()				Search-HashTag: #covid
+15		Wed Dec 23 19:31:21 2020		62			Search_clicked()				News Source: CNN
+16		Wed Dec 23 19:31:21 2020		78			Search_clicked()				News URL: https://edition.cnn.com/search?q=covid
+17		Wed Dec 23 19:31:21 2020		80			Search_clicked()				WebResults : News articles List
+18		Wed Dec 23 19:31:21 2020		46			Search_clicked()				Search-HashTag: #covid
+19		Wed Dec 23 19:31:21 2020		74			Search_clicked()				News Source: Google News
+20		Wed Dec 23 19:31:21 2020		78			Search_clicked()				News URL: https://news.google.com/search?q=covid when%3A1d&hl=en-IN&gl=IN&ceid=IN%3Aen
+21		Wed Dec 23 19:31:21 2020		80			Search_clicked()				WebResults : News articles List
+22		Wed Dec 23 19:31:21 2020		86			navigate(QUrl url)				Capturing Article URL: https://news.google.com/articles/CAIiEFlq1y88bj4JV3cirAGkRxgqFwgEKg4IACoGCAowxLQ_MNevCDCyrdsG?hl=en-IN&gl=IN&ceid=IN%3Aen
+23		Wed Dec 23 19:31:21 2020		12			MainWindow()					Opening New Dialog
+24		Wed Dec 23 19:31:21 2020		28			read(QString link)				Loading: Full Articlehttps://news.google.com/articles/CAIiEFlq1y88bj4JV3cirAGkRxgqFwgEKg4IACoGCAowxLQ_MNevCDCyrdsG?hl=en-IN&gl=IN&ceid=IN%3Aen
+25		Wed Dec 23 19:31:21 2020		104			navigate(QUrl url)				Creating New Dialog Object to Read News
+26		Wed Dec 23 19:31:21 2020		86			navigate(QUrl url)				Capturing Article URL: https://www.livemint.com/news/india/covid-19-these-states-have-restricted-new-year-celebration-11608775587916.html
+27		Wed Dec 23 19:31:21 2020		12			MainWindow()					Opening New Dialog
+28		Wed Dec 23 19:31:21 2020		28			read(QString link)				Loading: Full Articlehttps://www.livemint.com/news/india/covid-19-these-states-have-restricted-new-year-celebration-11608775587916.html
+29		Wed Dec 23 19:31:21 2020		104			navigate(QUrl url)				Creating New Dialog Object to Read News
+30		Wed Dec 23 19:31:21 2020		46			Search_clicked()				Search-HashTag: #covid
+31		Wed Dec 23 19:31:21 2020		68			Search_clicked()				News Source: abc News
+32		Wed Dec 23 19:31:21 2020		78			Search_clicked()				News URL: https://abcnews.go.com/search?searchtext=covid&sort=date
+33		Wed Dec 23 19:31:21 2020		80			Search_clicked()				WebResults : News articles List
+34		Wed Dec 23 19:31:21 2020		86			navigate(QUrl url)				Capturing Article URL: https://www.goodmorningamerica.com/living/video/teenagers-bring-joy-health-care-workers-pandemic-74893682
+35		Wed Dec 23 19:31:21 2020		12			MainWindow()					Opening New Dialog
+36		Wed Dec 23 19:31:21 2020		28			read(QString link)				Loading: Full Articlehttps://www.goodmorningamerica.com/living/video/teenagers-bring-joy-health-care-workers-pandemic-74893682
+37		Wed Dec 23 19:31:21 2020		104			navigate(QUrl url)				Creating New Dialog Object to Read News
+38		Wed Dec 23 19:31:21 2020		46			Search_clicked()				Search-HashTag: #covid
+39		Wed Dec 23 19:31:21 2020		56			Search_clicked()				News Source: The Hindu
+40		Wed Dec 23 19:31:21 2020		78			Search_clicked()				News URL: https://www.thehindu.com/search/?q=covid&order=DESC&sort=publishdate
+41		Wed Dec 23 19:31:21 2020		80			Search_clicked()				WebResults : News articles List
+42		Wed Dec 23 19:31:21 2020		86			navigate(QUrl url)				Capturing Article URL: https://www.thehindu.com/news/national/karnataka/16-returnees-test-negative-in-hassan/article33411983.ece
+43		Wed Dec 23 19:31:21 2020		12			MainWindow()					Opening New Dialog
+44		Wed Dec 23 19:31:21 2020		28			read(QString link)				Loading: Full Articlehttps://www.thehindu.com/news/national/karnataka/16-returnees-test-negative-in-hassan/article33411983.ece
+45		Wed Dec 23 19:31:21 2020		104			navigate(QUrl url)				Creating New Dialog Object to Read News
+46		Wed Dec 23 19:31:21 2020		109			Exit_clicked()					Exit: Closing UI.
+47		Wed Dec 23 19:31:21 2020		38			~MainWindow()					Closing Application
+
+-------------PERFORMANCE REPORT--------------
+
+START TIME of HashNews = 12/24/2020 19:23:42.065
+Average CPU usage (Processor-Time) for HashNews = 3.94228%
+Average Memory usage (Working Set) for HashNews = 131MB
+Average Total CPU usage (Processor-Time) for system  = 11.1644%
+Average Total Memory usage (Working Set) for system = 3307MB
+EXIT TIME of HashNews = 12/24/2020 19:46:36.325
