@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/loadimg">
+        <file>icon.png</file>
+        <file>icontag.ico</file>
+    </qresource>
+</RCC>
